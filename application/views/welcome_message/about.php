@@ -29,14 +29,14 @@
             <div class="col-lg-8 col-lg-offset-2 text-center">              
                 <!--<p>หากเลือกตัวอักษรต้นฉบับ เป็น เทวนาครี จะถูกปริวรรต โรมาไนซ์ รอจนปริวรรต </p>-->
 
-                <a href="#compare" class="btn btn-warning btn-xl page-scroll">ปริวรรต เป็น ไทย-สันสฤต</a>
+                <a href="#compare" id="translite-button" class="btn btn-warning btn-xl page-scroll">ปริวรรต เป็น ไทย-สันสฤต</a>
                 <p id="compare"></p>
             </div>
         </div>
     </div>
 
     <div style="clear: both"></div>
-    <div  style="display: ">
+    <div id="translite" style="display: none">
         <div>
             <div class="code" style="width: 50%;float:left">
                 <pre>xxx</pre>

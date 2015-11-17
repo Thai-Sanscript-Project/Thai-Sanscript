@@ -5,6 +5,10 @@
     var roman = $('#roman');
     var selDevanagari = $('#select-devanagari');
     var selRoman = $('#select-roman');
+    var transliteButton = $('#translite-button');
+    var translite = $('#translite');
+    
+    
 
     $(function () {
         devanagari.prop('readonly', true);
@@ -12,6 +16,22 @@
         devanagari.autosize();
         roman.autosize();
         textAreaTranslite(devanagari);
+
+        selDevanagari.click(function () {
+            switchSourceButton(selDevanagari, selRoman);
+            devanagari.prop('readonly', false);
+            roman.prop('readonly', true);
+            statusSelect = "devanagari";
+        });
+        selRoman.click(function () {
+            switchSourceButton(selRoman, selDevanagari);
+            devanagari.prop('readonly', true);
+            roman.prop('readonly', false);
+            statusSelect = "roman";
+        });
+        transliteButton.click(function () {
+           translite.show();
+        });
     });
 
     function transliteration() {
@@ -31,18 +51,7 @@
         });
     }
 
-    selDevanagari.click(function () {
-        switchSourceButton(selDevanagari, selRoman);
-        devanagari.prop('readonly', false);
-        roman.prop('readonly', true);
-        statusSelect = "devanagari";
-    });
-    selRoman.click(function () {
-        switchSourceButton(selRoman, selDevanagari);
-        devanagari.prop('readonly', true);
-        roman.prop('readonly', false);
-        statusSelect = "roman";
-    });
+
 
     function switchSourceButton(current, opposite) {
 

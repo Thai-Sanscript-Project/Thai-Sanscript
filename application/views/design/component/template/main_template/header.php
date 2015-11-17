@@ -23,7 +23,7 @@
                     <a class="page-scroll" href="#about">ปริวรรต</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#services">นโยบายและแนวปฏิบัติ</a>
+                    <a class="page-scroll" href="#services">นโยบายการใช้งาน</a>
                 </li>
                 <li>
                     <a class="page-scroll" href="#portfolio">แหล่งเอกสาร</a>
