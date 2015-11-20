@@ -1,4 +1,4 @@
-
+<div class="modal"><!-- Place at bottom of page --></div>
 <section class="bg-primary" id="about" style="padding: 40px 0;">
     <div class="container">
         <div class="row">
@@ -14,13 +14,13 @@
             <p>
                 <a id="select-devanagari" href="javascript:void(0);" class="btn btn-warning btn-xl">เทวนาครี</a>
             </p>
-            <textarea id='devanagari' style="width: 98%;height: 250px;color: #000">Not animated.</textarea>
+            <textarea id='devanagari' style="width: 98%;height: 250px;color: #000">लोकाः समस्ताः सुखिनोभवन्तु</textarea>
         </div>
         <div class="text-center" style="width: 50%;float:left;">
             <p>
                 <a id="select-roman" href="javascript:void(0);" class="btn btn-warning btn-xl">โรมาไนซ์</a>
             </p>
-            <textarea id='roman' style="width: 98%;height: 250px;color: #000" >With CSS transition.</textarea>
+            <textarea id='roman' style="width: 98%;height: 250px;color: #000" >lokāḥ samastāḥ sukhinobhavantu</textarea>
         </div>
     </div>
     <div style="clear: both"></div>
@@ -36,230 +36,51 @@
     </div>
 
     <div style="clear: both"></div>
-    <div id="translite" style="display: none">
-        <div>
-            <div class="code" style="width: 50%;float:left">
-                <pre>xxx</pre>
-                <ol>
+    <div id="translite" style="display:none ">
 
-                    <li style=
-                        "font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;">
-                        <div style=
-                             "font-family: 'Courier New', Courier, monospace; font-weight: normal;">
-                            bkLib.<span style=
-                                        "color: #006600;">onDomLoaded</span><span style=
-                                        "color: #66cc66;">(</span><span style=
-                                        "color: #003366; font-weight: bold;">function</span><span style="color: #66cc66;">(</span><span style="color: #66cc66;">)</span>
-                            <span style="color: #66cc66;">{</span>
-                            nicEditors.<span style=
-                                             "color: #006600;">allTextAreas</span><span style=
-                                             "color: #66cc66;">(</span><span style=
-                                             "color: #66cc66;">)</span> <span style=
-                                             "color: #66cc66;">}</span><span style=
-                                             "color: #66cc66;">)</span>;
-                        </div>
-                    </li>
-                    <li style=
-                        "font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;">
-                        <div style=
-                             "font-family: 'Courier New', Courier, monospace; font-weight: normal;">
-                            <span style=
-                                  "color: #009900; font-style: italic;">//]]&gt;</span>
-                        </div>
-                    </li>
-                    <li style=
-                        "font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;">
-                        <div style=
-                             "font-family: 'Courier New', Courier, monospace; font-weight: normal;">
-                            &lt;/script&gt;
-                        </div>
-                    </li>
-                    
-                   
-                </ol>
 
-            </div>
-        </div>
-
-        <div class="code" style="width: 50%;float:left">
-            <ol>
-
-                <li style=
-                    "font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;">
-                    <div style=
-                         "font-family: 'Courier New', Courier, monospace; font-weight: normal;">
-                        bkLib.<span style=
-                                    "color: #006600;">onDomLoaded</span><span style=
-                                    "color: #66cc66;">(</span><span style=
-                                    "color: #003366; font-weight: bold;">function</span><span style="color: #66cc66;">(</span><span style="color: #66cc66;">)</span>
-                        <span style="color: #66cc66;">{</span>
-                        nicEditors.<span style=
-                                         "color: #006600;">allTextAreas</span><span style=
-                                         "color: #66cc66;">(</span><span style=
-                                         "color: #66cc66;">)</span> <span style=
-                                         "color: #66cc66;">}</span><span style=
-                                         "color: #66cc66;">)</span>;
+        <div class="code">
+            <p class="text-center code-p">เทวนาครี</p>
+            <ol class="code-ol">
+                <li class="code-li">
+                    <div>
+                        <span id="dev-1" class="syllable">लोकाः समस्ताः सुखिनोभवन्तु</span>
+                        <span id="dev-2" class="syllable">लोकाः समस्ताः सुखिनोभवन्तु</span>
+                        <span id="dev-2" class="syllable">लोकाः समस्ताः </span>
                     </div>
                 </li>
-                <li style=
-                    "font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;">
-                    <div style=
-                         "font-family: 'Courier New', Courier, monospace; font-weight: normal;">
-                        <span style=
-                              "color: #009900; font-style: italic;">//]]&gt;</span>
-                    </div>
-                </li>
-                <li style=
-                    "font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;">
-                    <div style=
-                         "font-family: 'Courier New', Courier, monospace; font-weight: normal;">
-                        &lt;/script&gt;
-                    </div>
-                </li>
-                <li style=
-                    "font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;">
-                    <div style=
-                         "font-family: 'Courier New', Courier, monospace; font-weight: normal;">
-                        &lt;h4&gt;
-                    </div>
-                </li>
-                <li style=
-                    "font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;">
-                    <div style=
-                         "font-family: 'Courier New', Courier, monospace; font-weight: normal;">
-                        First Textarea
-                    </div>
-                </li>
-                <li style=
-                    "font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;">
-                    <div style=
-                         "font-family: 'Courier New', Courier, monospace; font-weight: normal;">
-                        &lt;/h4&gt;
-                    </div>
-                </li>
-                <li style=
-                    "font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;">
-                    <div style=
-                         "font-family: 'Courier New', Courier, monospace; font-weight: normal;">
-                        &lt;textarea <span style=
-                                           "color: #000066;">name</span>=<span style=
-                                           "color: #3366CC;">"area1"</span> cols=<span style=
-                                           "color: #3366CC;">"40"</span>&gt;
-                    </div>
-                </li>
-                <li style=
-                    "font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;">
-                    <div style=
-                         "font-family: 'Courier New', Courier, monospace; font-weight: normal;">
-                        &lt;<span style="color: #0066FF;">/textarea&gt;&lt;br
-                            /</span>&gt;
-                    </div>
-                </li>
-                <li style=
-                    "font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;">
-                    <div style=
-                         "font-family: 'Courier New', Courier, monospace; font-weight: normal;">
-                        &lt;h4&gt;
-                    </div>
-                </li>
-                <li style=
-                    "font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;">
-                    <div style=
-                         "font-family: 'Courier New', Courier, monospace; font-weight: normal;">
-                        Second Textarea
-                    </div>
-                </li>
-                <li style=
-                    "font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;">
-                    <div style=
-                         "font-family: 'Courier New', Courier, monospace; font-weight: normal;">
-                        &lt;/h4&gt;
-                    </div>
-                </li>
-                <li style=
-                    "font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;">
-                    <div style=
-                         "font-family: 'Courier New', Courier, monospace; font-weight: normal;">
-                        &lt;textarea <span style=
-                                           "color: #000066;">name</span>=<span style=
-                                           "color: #3366CC;">"area2"</span> style=<span style=
-                                           "color: #3366CC;">"width: 100%;"</span>&gt;
-                    </div>
-                </li>
-                <li style=
-                    "font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;">
-                    <div style=
-                         "font-family: 'Courier New', Courier, monospace; font-weight: normal;">
-                        Some Initial Content was <span style=
-                                                       "color: #000066; font-weight: bold;">in</span> <span style=
-                                                       "color: #000066; font-weight: bold;">this</span> textarea
-                    </div>
-                </li>
-                <li style=
-                    "font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;">
-                    <div style=
-                         "font-family: 'Courier New', Courier, monospace; font-weight: normal;">
-                        &lt;<span style="color: #0066FF;">/textarea&gt;&lt;br
-                            /</span>&gt;
-                    </div>
-                </li>
-                <li style=
-                    "font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;">
-                    <div style=
-                         "font-family: 'Courier New', Courier, monospace; font-weight: normal;">
-                        &lt;h4&gt;
-                    </div>
-                </li>
-                <li style=
-                    "font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;">
-                    <div style=
-                         "font-family: 'Courier New', Courier, monospace; font-weight: normal;">
-                        Third Textarea
-                    </div>
-                </li>
-                <li style=
-                    "font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;">
-                    <div style=
-                         "font-family: 'Courier New', Courier, monospace; font-weight: normal;">
-                        &lt;/h4&gt;
-                    </div>
-                </li>
-                <li style=
-                    "font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;">
-                    <div style=
-                         "font-family: 'Courier New', Courier, monospace; font-weight: normal;">
-                        &lt;textarea <span style=
-                                           "color: #000066;">name</span>=<span style=
-                                           "color: #3366CC;">"area3"</span> style=<span style=
-                                           "color: #3366CC;">"width: 300px; height: 100px;"</span>&gt;
-                    </div>
-                </li>
-                <li style=
-                    "font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;">
-                    <div style=
-                         "font-family: 'Courier New', Courier, monospace; font-weight: normal;">
-                        HTML content <span style="color: #003366; font-weight: bold;">
-                            default</span> <span style=
-                                             "color: #000066; font-weight: bold;">in</span> textarea
-                    </div>
-                </li>
-                <li style=
-                    "font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;">
-                    <div style=
-                         "font-family: 'Courier New', Courier, monospace; font-weight: normal;">
-                        &lt;/textarea&gt;
-                    </div>
-                </li>
-                <li style=
-                    "font-family: 'Courier New', Courier, monospace; color: black; font-weight: normal; font-style: normal;">
-                    <div style=
-                         "font-family: 'Courier New', Courier, monospace; font-weight: normal;">
-                        &lt;/div&gt;
+                <li class="code-li">
+                    <div>
+                        <span class="syllable">लोकाः समस्ताः सुखिनोभवन्तु</span>
+                        <span class="syllable">लोकाः समस्ताः सुखिनोभवन्तु</span>
+                        <span class="syllable">लोकाः समस्ताः </span>
                     </div>
                 </li>
             </ol>
-
         </div>
+        
+        <div class="code">
+            <p class="text-center code-p">เทวนาครี</p>
+            <ol class="code-ol">
+                <li class="code-li">
+                    <div>
+                        <span>lokāḥ samastāḥ sukhinobhavantu</span>
+                        <span class="hilight">lokāḥ samastāḥ sukhinobhavantu</span>
+                        <span>lokāḥ samastāḥ sukhinobhavantu</span>
+                    </div>
+                </li>
+                <li class="code-li">
+                    <div>
+                        <span>โลกาห์ สะมัสตาห์ สุขิโนภะวันตุ </span>
+                        <span class="hilight">โลกาห์ สะมัสตาห์ สุขิโนภะวันตุ </span>
+                        <span>โลกาห์ สะมัสตาห์ สุขิโนภะวันตุ </span>
+                    </div>
+                </li>
+            </ol>
+        </div>
+        
+        </div>
+        <div style="clear: both"></div>
     </div>
     <div style="clear: both"></div>
 </section>

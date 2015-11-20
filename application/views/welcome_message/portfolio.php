@@ -72,15 +72,15 @@
                 </a>
             </div>
             <div class="col-lg-4 col-sm-6">
-                <a href="#" class="portfolio-box">
+                <a href="http://www.sacred-texts.com/hin/" class="portfolio-box">
                     <img src="inc/img/portfolio/5.jpg" class="img-responsive" alt="">
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
                             <div class="project-category text-faded">
-                                Category
+                                sacred-texts.com/hin/
                             </div>
                             <div class="project-name">
-                                Project Name
+                                Collection of Hindu texts : Vedas   Upanishads   Puranas   Other Primary Texts   Epics   Mahabharata   Ramayana   Bhagavad Gita   Vedanta 
                             </div>
                         </div>
                     </div>
