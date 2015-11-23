@@ -67,7 +67,12 @@
         color:  #006600; 
     }
     .syllable{
-       color:  #006600;   
+        color:  #006600;   
+    }
+    .select-lang{
+        width: 98%;
+        height: 250px;
+        color: #000;
     }
 
 </style>

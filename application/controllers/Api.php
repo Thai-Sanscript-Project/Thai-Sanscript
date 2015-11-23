@@ -10,6 +10,9 @@ use ThaiSanskrit\ThaiSanscriptAPI;
 class Api extends CI_Controller {
 
     public function index() {
+        $this->load->library('user_agent');
+      
+        
 //        $starttime = microtime(true);
 //        /* @var $thaiSanscriptAPI ThaiSanscriptAPI */
         $romanize = filter_input(INPUT_POST, 'sanskrit-romanize');
@@ -24,13 +27,16 @@ class Api extends CI_Controller {
 //        echo "Function Time: ", (microtime(true) - $starttime), " ms\n";
 //        print_r($thaiSanscriptAPI->transliterationToArray($romanize));
         $line_sanskrit = $thaiSanscriptAPI->transliterationToArray($romanize);
-       
+        
+        
+
         $data['lang_id'] = "romanize";
         $data['lang_name'] = "โรมาไนซ์";
         $data['line_sanskrit'] = $line_sanskrit['romanize'];
         $this->load->view('api/textcompare', $data);
+        
         $data['lang_id'] = "thai";
-        $data['lang_name'] = "ไทยรูปแบบทั่วไป";
+        $data['lang_name'] = "ไทยรูปแบบทั่วไป(แบบปรับรูป)";
         $data['line_sanskrit'] = $line_sanskrit['thai'];
         $this->load->view('api/textcompare', $data);
     }

@@ -30,7 +30,7 @@
 
     function thaiTransliteration() {
         transliteButton.click(function () {
-           
+
             $.ajax({
                 type: "POST",
                 url: "<?php echo site_url('api'); ?>",
@@ -39,13 +39,15 @@
                 dataType: "html",
                 success: function (data) {
                     translite.html(data);
+                    translite.show();
                 },
                 error: function (XMLHttpRequest, textStatus, errorThrown) {
 //                    alert("Status: " + textStatus);
 //                    alert("Error: " + errorThrown);
                 }
             });
-             translite.show();
+
+
         });
     }
 
@@ -71,21 +73,18 @@
             devanagari.prop('readonly', false);
             roman.prop('readonly', true);
             statusSelect = "devanagari";
-            devanagari.val("");
-            roman.val("");
+            clear();
         });
         selRoman.click(function () {
             switchSourceButton(selRoman, selDevanagari);
             devanagari.prop('readonly', true);
             roman.prop('readonly', false);
             statusSelect = "roman";
-            devanagari.val("");
-            roman.val("");
+            clear();
         });
     }
 
     function switchSourceButton(current, opposite) {
-
         opposite.removeClass('btn-warning');
         current.removeClass('btn-warning');
         opposite.removeClass('btn-danger');
@@ -95,21 +94,24 @@
         current.addClass('btn-success');
         opposite.addClass('btn-danger');
     }
+    function clear() {
+        devanagari.val("");
+        roman.val("");
+        devanagari.height('250px');
+        roman.height('250px');
+        translite.hide('slow');
+    }
 
 
-//    $('.syllable').click(function () {
-//        $('.syllable').removeClass('hilight');
-//        $(this).addClass('hilight');
-//    });
 
     $(document).on('click', '.syllable', function () {
         var str = $(this).attr('id');
         var idsplit = str.split("-");
-        var num = idsplit[1]+"-"+idsplit[2];
+        var num = idsplit[1] + "-" + idsplit[2];
         $('.syllable').removeClass('hilight');
-        $("#thai-"+num).addClass('hilight');
-         $("#romanize-"+num).addClass('hilight');
-        
+        $("#thai-" + num).addClass('hilight');
+        $("#romanize-" + num).addClass('hilight');
+
     });
 
 
