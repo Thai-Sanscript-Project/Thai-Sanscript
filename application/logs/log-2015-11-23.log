@@ -1,0 +1,476 @@
+DEBUG - 2015-11-23 04:52:01 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 04:52:01 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 04:52:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 04:52:01 --> Total execution time: 0.0460
+DEBUG - 2015-11-23 04:52:06 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 04:52:06 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2015-11-23 04:52:06 --> Severity: Warning --> preg_split() expects parameter 2 to be string, array given C:\wamp\www\sanskrit\thaisanscript.php\src\ThaiSanscriptRule.php 27
+ERROR - 2015-11-23 04:52:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\sanskrit\thaisanscript.php\src\ThaiSanscriptRule.php 28
+ERROR - 2015-11-23 04:52:06 --> Severity: Notice --> Undefined index: devanagari C:\wamp\www\sanskrit\application\controllers\Api.php 31
+DEBUG - 2015-11-23 04:52:06 --> Total execution time: 0.0770
+DEBUG - 2015-11-23 05:07:47 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 05:07:47 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 05:07:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 05:07:47 --> Total execution time: 0.0330
+DEBUG - 2015-11-23 05:07:51 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 05:07:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 05:07:51 --> Total execution time: 0.0720
+DEBUG - 2015-11-23 05:08:23 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 05:08:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 05:08:23 --> Total execution time: 0.0560
+DEBUG - 2015-11-23 05:08:25 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 05:08:25 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 05:08:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 05:08:25 --> Total execution time: 0.0310
+DEBUG - 2015-11-23 05:08:27 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 05:08:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 05:08:27 --> Total execution time: 0.0630
+DEBUG - 2015-11-23 05:09:34 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 05:09:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 05:09:35 --> Total execution time: 0.0750
+DEBUG - 2015-11-23 05:10:46 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 05:10:46 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 05:10:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 05:10:46 --> Total execution time: 0.0340
+DEBUG - 2015-11-23 05:10:52 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 05:10:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 05:10:52 --> Total execution time: 0.0590
+DEBUG - 2015-11-23 05:11:18 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 05:11:18 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 05:11:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 05:11:19 --> Total execution time: 0.0310
+DEBUG - 2015-11-23 05:11:20 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 05:11:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 05:11:20 --> Total execution time: 0.0660
+DEBUG - 2015-11-23 05:11:41 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 05:11:41 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 05:11:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 05:11:41 --> Total execution time: 0.0270
+DEBUG - 2015-11-23 05:11:44 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 05:11:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 05:11:44 --> Total execution time: 0.0600
+DEBUG - 2015-11-23 05:50:11 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 05:50:11 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 05:50:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 05:50:11 --> Total execution time: 0.0280
+DEBUG - 2015-11-23 05:50:42 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 05:50:42 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 05:50:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 05:50:42 --> Total execution time: 0.0370
+DEBUG - 2015-11-23 05:55:16 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 05:55:16 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 05:55:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 05:55:16 --> Total execution time: 0.0330
+DEBUG - 2015-11-23 07:19:56 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 07:19:56 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 07:19:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 07:19:56 --> Total execution time: 0.0660
+DEBUG - 2015-11-23 07:20:30 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 07:20:30 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 07:20:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 07:20:30 --> Total execution time: 0.0330
+DEBUG - 2015-11-23 07:20:58 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 07:20:58 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 07:20:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 07:20:58 --> Total execution time: 0.0310
+DEBUG - 2015-11-23 07:22:06 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 07:22:06 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 07:22:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 07:22:06 --> Total execution time: 0.0330
+DEBUG - 2015-11-23 07:22:43 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 07:22:43 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 07:22:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 07:22:43 --> Total execution time: 0.0330
+DEBUG - 2015-11-23 07:23:14 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 07:23:14 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 07:23:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 07:23:14 --> Total execution time: 0.0340
+DEBUG - 2015-11-23 07:23:17 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 07:23:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 07:23:17 --> Total execution time: 0.0840
+DEBUG - 2015-11-23 07:36:56 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 07:36:56 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 07:36:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 07:36:56 --> Total execution time: 0.0380
+DEBUG - 2015-11-23 07:38:02 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 07:38:02 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 07:38:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 07:38:02 --> Total execution time: 0.0380
+DEBUG - 2015-11-23 08:10:50 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 08:10:50 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 08:10:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 08:10:50 --> Total execution time: 0.0510
+DEBUG - 2015-11-23 08:10:59 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 08:10:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 08:10:59 --> Total execution time: 0.0540
+DEBUG - 2015-11-23 08:26:24 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 08:26:24 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 08:26:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 08:26:24 --> Total execution time: 0.0360
+DEBUG - 2015-11-23 09:05:19 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 09:05:19 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2015-11-23 09:05:19 --> Severity: Notice --> Undefined variable: data C:\wamp\www\sanskrit\application\controllers\Api.php 19
+DEBUG - 2015-11-23 09:05:19 --> Total execution time: 0.1820
+DEBUG - 2015-11-23 09:05:33 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 09:05:33 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 09:05:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 09:05:33 --> Total execution time: 0.0290
+DEBUG - 2015-11-23 09:05:36 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 09:05:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 09:05:36 --> Total execution time: 0.0530
+DEBUG - 2015-11-23 09:05:44 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 09:05:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 09:05:44 --> Total execution time: 0.0500
+DEBUG - 2015-11-23 09:05:49 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 09:05:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 09:05:49 --> Total execution time: 0.0400
+DEBUG - 2015-11-23 10:12:09 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:12:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:12:09 --> Total execution time: 0.1920
+DEBUG - 2015-11-23 10:12:21 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:12:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:12:21 --> Total execution time: 0.0350
+DEBUG - 2015-11-23 10:12:32 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:12:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:12:32 --> Total execution time: 0.0300
+DEBUG - 2015-11-23 10:15:30 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:15:30 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 10:15:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:15:30 --> Total execution time: 0.0350
+DEBUG - 2015-11-23 10:15:32 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:15:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:15:32 --> Total execution time: 0.1620
+DEBUG - 2015-11-23 10:15:36 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:15:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:15:36 --> Total execution time: 0.0590
+DEBUG - 2015-11-23 10:16:28 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:16:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:16:28 --> Total execution time: 0.0510
+DEBUG - 2015-11-23 10:18:45 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:18:45 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 10:18:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:18:45 --> Total execution time: 0.0300
+DEBUG - 2015-11-23 10:18:56 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:18:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:18:56 --> Total execution time: 0.0560
+DEBUG - 2015-11-23 10:19:17 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:19:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:19:17 --> Total execution time: 0.0420
+DEBUG - 2015-11-23 10:19:46 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:19:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:19:46 --> Total execution time: 0.0340
+DEBUG - 2015-11-23 10:22:09 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:22:09 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 10:22:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:22:09 --> Total execution time: 0.0350
+DEBUG - 2015-11-23 10:22:11 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:22:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:22:11 --> Total execution time: 0.0370
+DEBUG - 2015-11-23 10:22:56 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:22:56 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 10:22:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:22:56 --> Total execution time: 0.0380
+DEBUG - 2015-11-23 10:23:01 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:23:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:23:01 --> Total execution time: 0.0370
+DEBUG - 2015-11-23 10:23:57 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:23:57 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 10:23:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:23:57 --> Total execution time: 0.0310
+DEBUG - 2015-11-23 10:24:00 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:24:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:24:00 --> Total execution time: 0.0370
+DEBUG - 2015-11-23 10:24:19 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:24:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:24:19 --> Total execution time: 0.0430
+DEBUG - 2015-11-23 10:24:25 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:24:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:24:25 --> Total execution time: 0.0330
+DEBUG - 2015-11-23 10:24:30 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:24:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:24:30 --> Total execution time: 0.0350
+DEBUG - 2015-11-23 10:24:47 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:24:47 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 10:24:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:24:47 --> Total execution time: 0.0320
+DEBUG - 2015-11-23 10:46:25 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:46:25 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 10:46:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:46:25 --> Total execution time: 0.0320
+DEBUG - 2015-11-23 10:46:43 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:46:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:46:43 --> Total execution time: 0.0470
+DEBUG - 2015-11-23 10:46:54 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:46:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:46:54 --> Total execution time: 0.0380
+DEBUG - 2015-11-23 10:46:58 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:46:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:46:58 --> Total execution time: 0.0430
+DEBUG - 2015-11-23 10:48:12 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:48:12 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 10:48:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:48:12 --> Total execution time: 0.0320
+DEBUG - 2015-11-23 10:48:31 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:48:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:48:31 --> Total execution time: 0.0360
+DEBUG - 2015-11-23 10:48:43 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:48:43 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 10:48:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:48:43 --> Total execution time: 0.0290
+DEBUG - 2015-11-23 10:51:47 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:51:48 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 10:51:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:51:48 --> Total execution time: 0.0290
+DEBUG - 2015-11-23 10:51:52 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:51:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:51:52 --> Total execution time: 0.0580
+DEBUG - 2015-11-23 10:52:15 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:52:15 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 10:52:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:52:15 --> Total execution time: 0.0310
+DEBUG - 2015-11-23 10:52:21 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:52:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:52:21 --> Total execution time: 0.0670
+DEBUG - 2015-11-23 10:52:44 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:52:44 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 10:52:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:52:44 --> Total execution time: 0.0330
+DEBUG - 2015-11-23 10:52:47 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:52:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:52:47 --> Total execution time: 0.0620
+DEBUG - 2015-11-23 10:53:09 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:53:09 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 10:53:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:53:09 --> Total execution time: 0.0430
+DEBUG - 2015-11-23 10:53:12 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:53:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:53:12 --> Total execution time: 0.0600
+DEBUG - 2015-11-23 10:53:30 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:53:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:53:30 --> Total execution time: 0.0500
+DEBUG - 2015-11-23 10:54:47 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:54:47 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 10:54:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:54:47 --> Total execution time: 0.0410
+DEBUG - 2015-11-23 10:54:49 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:54:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:54:49 --> Total execution time: 0.0480
+DEBUG - 2015-11-23 10:55:11 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:55:11 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 10:55:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:55:11 --> Total execution time: 0.0330
+DEBUG - 2015-11-23 10:55:25 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 10:55:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 10:55:25 --> Total execution time: 0.0410
+DEBUG - 2015-11-23 11:21:55 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 11:21:55 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2015-11-23 11:21:55 --> Severity: Notice --> Undefined variable: checkbox C:\wamp\www\sanskrit\application\views\api\checkbox_generate.php 14
+ERROR - 2015-11-23 11:21:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\sanskrit\application\views\api\checkbox_generate.php 14
+ERROR - 2015-11-23 11:21:55 --> Severity: Warning --> Illegal string offset 'lang_id' C:\wamp\www\sanskrit\application\controllers\Api.php 27
+ERROR - 2015-11-23 11:21:55 --> Severity: Warning --> Illegal string offset 'lang_name' C:\wamp\www\sanskrit\application\controllers\Api.php 28
+ERROR - 2015-11-23 11:21:55 --> Severity: Warning --> Illegal string offset 'line_sanskrit' C:\wamp\www\sanskrit\application\controllers\Api.php 29
+ERROR - 2015-11-23 11:21:55 --> Severity: Notice --> Array to string conversion C:\wamp\www\sanskrit\application\controllers\Api.php 29
+ERROR - 2015-11-23 11:21:55 --> Severity: Warning --> Illegal string offset 'lang_id' C:\wamp\www\sanskrit\application\controllers\Api.php 30
+DEBUG - 2015-11-23 11:21:55 --> Total execution time: 0.0700
+DEBUG - 2015-11-23 11:23:41 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 11:23:41 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 11:23:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 11:23:41 --> Total execution time: 0.0330
+DEBUG - 2015-11-23 11:23:44 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 11:23:44 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2015-11-23 11:23:44 --> Severity: Warning --> Illegal string offset 'lang_id' C:\wamp\www\sanskrit\application\controllers\Api.php 27
+ERROR - 2015-11-23 11:23:44 --> Severity: Warning --> Illegal string offset 'lang_name' C:\wamp\www\sanskrit\application\controllers\Api.php 28
+ERROR - 2015-11-23 11:23:44 --> Severity: Warning --> Illegal string offset 'line_sanskrit' C:\wamp\www\sanskrit\application\controllers\Api.php 29
+ERROR - 2015-11-23 11:23:44 --> Severity: Notice --> Array to string conversion C:\wamp\www\sanskrit\application\controllers\Api.php 29
+ERROR - 2015-11-23 11:23:44 --> Severity: Warning --> Illegal string offset 'lang_id' C:\wamp\www\sanskrit\application\controllers\Api.php 30
+DEBUG - 2015-11-23 11:23:44 --> Total execution time: 0.0470
+DEBUG - 2015-11-23 11:24:37 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 11:24:37 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2015-11-23 11:24:37 --> Severity: Warning --> Illegal string offset 'lang_id' C:\wamp\www\sanskrit\application\controllers\Api.php 27
+ERROR - 2015-11-23 11:24:37 --> Severity: Warning --> Illegal string offset 'lang_name' C:\wamp\www\sanskrit\application\controllers\Api.php 28
+ERROR - 2015-11-23 11:24:37 --> Severity: Warning --> Illegal string offset 'line_sanskrit' C:\wamp\www\sanskrit\application\controllers\Api.php 29
+ERROR - 2015-11-23 11:24:37 --> Severity: Notice --> Array to string conversion C:\wamp\www\sanskrit\application\controllers\Api.php 29
+ERROR - 2015-11-23 11:24:37 --> Severity: Warning --> Illegal string offset 'lang_id' C:\wamp\www\sanskrit\application\controllers\Api.php 30
+DEBUG - 2015-11-23 11:24:37 --> Total execution time: 0.0690
+DEBUG - 2015-11-23 11:26:42 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 11:26:42 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 11:26:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 11:26:42 --> Total execution time: 0.0270
+DEBUG - 2015-11-23 11:26:44 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 11:26:44 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2015-11-23 11:26:44 --> Severity: Warning --> Illegal string offset 'lang_id' C:\wamp\www\sanskrit\application\controllers\Api.php 27
+ERROR - 2015-11-23 11:26:44 --> Severity: Warning --> Illegal string offset 'lang_name' C:\wamp\www\sanskrit\application\controllers\Api.php 28
+ERROR - 2015-11-23 11:26:44 --> Severity: Warning --> Illegal string offset 'line_sanskrit' C:\wamp\www\sanskrit\application\controllers\Api.php 29
+ERROR - 2015-11-23 11:26:44 --> Severity: Notice --> Array to string conversion C:\wamp\www\sanskrit\application\controllers\Api.php 29
+ERROR - 2015-11-23 11:26:44 --> Severity: Warning --> Illegal string offset 'lang_id' C:\wamp\www\sanskrit\application\controllers\Api.php 30
+DEBUG - 2015-11-23 11:26:44 --> Total execution time: 0.0840
+DEBUG - 2015-11-23 11:28:07 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 11:28:07 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2015-11-23 11:28:07 --> Severity: Warning --> Illegal string offset 'lang_id' C:\wamp\www\sanskrit\application\controllers\Api.php 27
+ERROR - 2015-11-23 11:28:07 --> Severity: Warning --> Illegal string offset 'lang_name' C:\wamp\www\sanskrit\application\controllers\Api.php 28
+ERROR - 2015-11-23 11:28:07 --> Severity: Warning --> Illegal string offset 'line_sanskrit' C:\wamp\www\sanskrit\application\controllers\Api.php 29
+ERROR - 2015-11-23 11:28:07 --> Severity: Notice --> Array to string conversion C:\wamp\www\sanskrit\application\controllers\Api.php 29
+ERROR - 2015-11-23 11:28:07 --> Severity: Warning --> Illegal string offset 'lang_id' C:\wamp\www\sanskrit\application\controllers\Api.php 30
+DEBUG - 2015-11-23 11:28:07 --> Total execution time: 0.0780
+DEBUG - 2015-11-23 11:30:57 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 11:30:57 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2015-11-23 11:30:57 --> Severity: Warning --> Illegal string offset 'lang_id' C:\wamp\www\sanskrit\application\controllers\Api.php 28
+ERROR - 2015-11-23 11:30:57 --> Severity: Warning --> Illegal string offset 'lang_name' C:\wamp\www\sanskrit\application\controllers\Api.php 29
+ERROR - 2015-11-23 11:30:57 --> Severity: Warning --> Illegal string offset 'line_sanskrit' C:\wamp\www\sanskrit\application\controllers\Api.php 30
+ERROR - 2015-11-23 11:30:57 --> Severity: Notice --> Array to string conversion C:\wamp\www\sanskrit\application\controllers\Api.php 30
+DEBUG - 2015-11-23 11:30:57 --> Total execution time: 0.0600
+DEBUG - 2015-11-23 11:31:34 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 11:31:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 11:31:34 --> Total execution time: 0.0690
+DEBUG - 2015-11-23 11:32:43 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 11:32:43 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 11:32:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 11:32:43 --> Total execution time: 0.0340
+DEBUG - 2015-11-23 11:32:45 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 11:32:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 11:32:45 --> Total execution time: 0.0550
+DEBUG - 2015-11-23 11:33:39 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 11:33:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 11:33:39 --> Total execution time: 0.0820
+DEBUG - 2015-11-23 11:43:05 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 11:43:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 11:43:06 --> Total execution time: 0.0880
+DEBUG - 2015-11-23 15:50:11 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 15:50:11 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 15:50:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 15:50:11 --> Total execution time: 0.0300
+DEBUG - 2015-11-23 15:50:16 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 15:50:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 15:50:16 --> Total execution time: 0.0690
+DEBUG - 2015-11-23 15:59:04 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 15:59:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 15:59:04 --> Total execution time: 0.0530
+DEBUG - 2015-11-23 15:59:11 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 15:59:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 15:59:11 --> Total execution time: 0.0470
+DEBUG - 2015-11-23 16:00:19 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 16:00:19 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 16:00:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 16:00:19 --> Total execution time: 0.0360
+DEBUG - 2015-11-23 16:00:53 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 16:00:53 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2015-11-23 16:00:53 --> Severity: Notice --> Undefined variable: devanagari_id C:\wamp\www\sanskrit\application\controllers\Api.php 25
+DEBUG - 2015-11-23 16:00:53 --> Total execution time: 0.0420
+DEBUG - 2015-11-23 16:02:02 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 16:02:02 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 16:02:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 16:02:02 --> Total execution time: 0.0290
+DEBUG - 2015-11-23 16:02:13 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 16:02:13 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2015-11-23 16:02:13 --> Severity: Notice --> Undefined variable: dev_id C:\wamp\www\sanskrit\application\controllers\Api.php 28
+DEBUG - 2015-11-23 16:02:13 --> Total execution time: 0.0620
+DEBUG - 2015-11-23 16:02:25 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 16:02:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 16:02:25 --> Total execution time: 0.0520
+DEBUG - 2015-11-23 16:02:31 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 16:02:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 16:02:31 --> Total execution time: 0.0500
+DEBUG - 2015-11-23 16:02:39 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 16:02:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 16:02:39 --> Total execution time: 0.0560
+DEBUG - 2015-11-23 16:03:43 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 16:03:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 16:03:43 --> Total execution time: 0.0490
+DEBUG - 2015-11-23 16:04:36 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 16:04:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 16:04:36 --> Total execution time: 0.0780
+DEBUG - 2015-11-23 16:04:39 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 16:04:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 16:04:40 --> Total execution time: 0.0380
+DEBUG - 2015-11-23 16:05:08 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 16:05:08 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2015-11-23 16:05:08 --> Severity: Notice --> Array to string conversion C:\wamp\www\sanskrit\application\controllers\Api.php 23
+DEBUG - 2015-11-23 16:05:08 --> Total execution time: 0.0870
+DEBUG - 2015-11-23 16:05:35 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 16:05:35 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 16:05:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 16:05:35 --> Total execution time: 0.0290
+DEBUG - 2015-11-23 16:05:50 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 16:05:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 16:05:50 --> Total execution time: 0.0470
+DEBUG - 2015-11-23 16:05:59 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 16:05:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 16:05:59 --> Total execution time: 0.0580
+DEBUG - 2015-11-23 16:14:11 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 16:14:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 16:14:11 --> Total execution time: 0.0490
+DEBUG - 2015-11-23 16:14:33 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 16:14:33 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2015-11-23 16:14:33 --> Severity: Notice --> Undefined index: devanagari C:\wamp\www\sanskrit\application\controllers\Api.php 23
+ERROR - 2015-11-23 16:14:33 --> Severity: Notice --> Undefined index: devanagari C:\wamp\www\sanskrit\application\controllers\Api.php 24
+ERROR - 2015-11-23 16:14:33 --> Severity: Notice --> Undefined index: devanagari C:\wamp\www\sanskrit\application\controllers\Api.php 25
+ERROR - 2015-11-23 16:14:33 --> Severity: Notice --> Undefined variable: lang_id C:\wamp\www\sanskrit\application\views\api\textcompare.php 1
+ERROR - 2015-11-23 16:14:33 --> Severity: Notice --> Undefined variable: lang_name C:\wamp\www\sanskrit\application\views\api\textcompare.php 2
+ERROR - 2015-11-23 16:14:33 --> Severity: Notice --> Undefined variable: line_sanskrit C:\wamp\www\sanskrit\application\views\api\textcompare.php 4
+ERROR - 2015-11-23 16:14:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\sanskrit\application\views\api\textcompare.php 4
+DEBUG - 2015-11-23 16:14:33 --> Total execution time: 0.0770
+DEBUG - 2015-11-23 16:15:34 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 16:15:34 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2015-11-23 16:15:34 --> Severity: Notice --> Undefined variable: lang_id C:\wamp\www\sanskrit\application\views\api\textcompare.php 1
+ERROR - 2015-11-23 16:15:34 --> Severity: Notice --> Undefined variable: lang_name C:\wamp\www\sanskrit\application\views\api\textcompare.php 2
+ERROR - 2015-11-23 16:15:34 --> Severity: Notice --> Undefined variable: line_sanskrit C:\wamp\www\sanskrit\application\views\api\textcompare.php 4
+ERROR - 2015-11-23 16:15:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\sanskrit\application\views\api\textcompare.php 4
+DEBUG - 2015-11-23 16:15:34 --> Total execution time: 0.0850
+DEBUG - 2015-11-23 16:16:07 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 16:16:07 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 16:16:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 16:16:07 --> Total execution time: 0.0270
+DEBUG - 2015-11-23 16:16:09 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 16:16:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 16:16:09 --> Total execution time: 0.0530
+DEBUG - 2015-11-23 16:16:15 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 16:16:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 16:16:15 --> Total execution time: 0.0550
+DEBUG - 2015-11-23 16:26:18 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 16:26:18 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2015-11-23 16:26:19 --> Severity: Notice --> Undefined variable: lang_id C:\wamp\www\sanskrit\application\views\api\textcompare.php 1
+ERROR - 2015-11-23 16:26:19 --> Severity: Notice --> Undefined variable: lang_name C:\wamp\www\sanskrit\application\views\api\textcompare.php 2
+ERROR - 2015-11-23 16:26:19 --> Severity: Notice --> Undefined variable: line_sanskrit C:\wamp\www\sanskrit\application\views\api\textcompare.php 4
+ERROR - 2015-11-23 16:26:19 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp\www\sanskrit\application\views\api\textcompare.php 4
+DEBUG - 2015-11-23 16:26:19 --> Total execution time: 0.5760
+DEBUG - 2015-11-23 16:28:01 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 16:28:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 16:28:01 --> Total execution time: 0.5760
+DEBUG - 2015-11-23 17:10:13 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 17:10:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 17:10:14 --> Total execution time: 0.5870
+DEBUG - 2015-11-23 17:10:51 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 17:10:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 17:10:52 --> Total execution time: 0.5550
+DEBUG - 2015-11-23 17:11:05 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 17:11:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 17:11:06 --> Total execution time: 0.8030
+DEBUG - 2015-11-23 17:13:54 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 17:13:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 17:13:55 --> Total execution time: 0.6100
+DEBUG - 2015-11-23 17:15:09 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 17:15:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 17:15:10 --> Total execution time: 0.6270
+DEBUG - 2015-11-23 17:15:22 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 17:15:22 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 17:15:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 17:15:22 --> Total execution time: 0.0300
+DEBUG - 2015-11-23 17:15:25 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 17:15:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 17:15:25 --> Total execution time: 0.0410
+DEBUG - 2015-11-23 17:16:27 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 17:16:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 17:16:27 --> Total execution time: 0.0530
+DEBUG - 2015-11-23 17:16:29 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 17:16:29 --> No URI present. Default controller set.
+DEBUG - 2015-11-23 17:16:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 17:16:29 --> Total execution time: 0.0280
+DEBUG - 2015-11-23 17:16:31 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 17:16:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 17:16:32 --> Total execution time: 0.0640
+DEBUG - 2015-11-23 17:18:30 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 17:18:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 17:18:32 --> Total execution time: 1.6241
+DEBUG - 2015-11-23 17:21:52 --> UTF-8 Support Enabled
+DEBUG - 2015-11-23 17:21:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-23 17:21:54 --> Total execution time: 1.9441

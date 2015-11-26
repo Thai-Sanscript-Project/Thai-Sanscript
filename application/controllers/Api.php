@@ -10,35 +10,63 @@ use ThaiSanskrit\ThaiSanscriptAPI;
 class Api extends CI_Controller {
 
     public function index() {
-        $this->load->library('user_agent');
-      
-        
-//        $starttime = microtime(true);
+       $timestamp = round(microtime(true) * 1000);
 //        /* @var $thaiSanscriptAPI ThaiSanscriptAPI */
         $romanize = filter_input(INPUT_POST, 'sanskrit-romanize');
-//        $devanagari = filter_input(INPUT_POST, 'sanskrit-devanagari');
-//       
-//        $this->load->helper('file');
+        $devanagari = filter_input(INPUT_POST, 'sanskrit-devanagari');
         $thaiSanscriptAPI = new ThaiSanscriptAPI();
-////        $str = read_file('./inc/txt/Pratimokasutram.txt');
-//        echo $devanagari."\n";
-//        echo $thaiSanscriptAPI->transliteration($romanize);
-////        echo $str;
-//        echo "Function Time: ", (microtime(true) - $starttime), " ms\n";
-//        print_r($thaiSanscriptAPI->transliterationToArray($romanize));
-        $line_sanskrit = $thaiSanscriptAPI->transliterationToArray($romanize);
-        
-        
+        $line_sanskrit = $thaiSanscriptAPI->transliterationToArray($romanize, $devanagari);
+        $checkbox = array();
+        $romanize = array();
+        $dev = array();
+        $thai = array();
 
-        $data['lang_id'] = "romanize";
-        $data['lang_name'] = "โรมาไนซ์";
-        $data['line_sanskrit'] = $line_sanskrit['romanize'];
-        $this->load->view('api/textcompare', $data);
+        if (isset($line_sanskrit['devanagari'])) {
+            $devanagari_id = "devanagari";
+            $lang_name = "เทวนาครี";
+            $show = FALSE;
+            $dev = $this->setLang($devanagari_id, $lang_name,$show, $line_sanskrit);
+            $checkbox = $this->setCheckbox($devanagari_id, $lang_name,$show, $checkbox);
+        }
+        $romanize_id = "romanize";
+        $lang_name = "โรมาไนซ์";
+        $show = TRUE;
+        $romanize = $this->setLang($romanize_id, $lang_name,$show, $line_sanskrit);
+        $checkbox = $this->setCheckbox($romanize_id, $lang_name,$show, $checkbox);
+
+        $thai_id = "thai";
+        $lang_name = "ไทยรูปแบบทั่วไป(แบบปรับรูป)";
+        $show = TRUE;
+        $thai = $this->setLang($thai_id, $lang_name,$show, $line_sanskrit);
         
-        $data['lang_id'] = "thai";
-        $data['lang_name'] = "ไทยรูปแบบทั่วไป(แบบปรับรูป)";
-        $data['line_sanskrit'] = $line_sanskrit['thai'];
-        $this->load->view('api/textcompare', $data);
+        $checkbox = $this->setCheckbox($thai_id, $lang_name,$show, $checkbox);
+
+
+        $this->load->view('api/checkbox_generate', $checkbox);
+        if (isset($line_sanskrit['devanagari'])) {
+            $this->load->view('api/textcompare', $dev);
+        }
+        $this->load->view('api/textcompare', $romanize);
+        $this->load->view('api/textcompare', $thai);
+        $data['timestamp'] = $timestamp;
+        $this->load->view('api/time_stamp', $data);
+    }
+
+    private function setLang($lang_id, $lang_name, $show, $line_sanskrit) {
+
+        $array['lang_id'] = $lang_id;
+        $array['lang_name'] = $lang_name;
+        $array['line_sanskrit'] = $line_sanskrit[$lang_id];
+        $array['lang_show'] = $show;
+        return $array;
+    }
+
+    private function setCheckbox($lang_id, $lang_name, $show, $checkbox) {
+
+        $checkbox['checkbox'][] = $lang_id;
+        $checkbox['label'][] = $lang_name;
+        $checkbox['show'][] = $show;
+        return $checkbox;
     }
 
 }

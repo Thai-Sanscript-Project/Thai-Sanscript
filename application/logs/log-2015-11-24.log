@@ -1,0 +1,391 @@
+DEBUG - 2015-11-24 09:05:16 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 09:05:16 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 09:05:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 09:05:16 --> Total execution time: 0.0310
+DEBUG - 2015-11-24 09:05:20 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 09:05:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 09:05:20 --> Total execution time: 0.0590
+DEBUG - 2015-11-24 09:27:24 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 09:27:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 09:27:24 --> Total execution time: 0.0450
+DEBUG - 2015-11-24 09:54:25 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 09:54:25 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 09:54:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 09:54:25 --> Total execution time: 0.0730
+DEBUG - 2015-11-24 09:54:29 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 09:54:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 09:54:30 --> Total execution time: 0.0500
+DEBUG - 2015-11-24 09:54:52 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 09:54:52 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 09:54:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 09:54:52 --> Total execution time: 0.0370
+DEBUG - 2015-11-24 09:54:58 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 09:54:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 09:54:58 --> Total execution time: 0.0590
+DEBUG - 2015-11-24 09:59:32 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 09:59:32 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 09:59:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 09:59:32 --> Total execution time: 0.0480
+DEBUG - 2015-11-24 09:59:37 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 09:59:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 09:59:37 --> Total execution time: 0.0370
+DEBUG - 2015-11-24 10:01:36 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 10:01:36 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 10:01:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 10:01:36 --> Total execution time: 0.0270
+DEBUG - 2015-11-24 10:01:40 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 10:01:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 10:01:40 --> Total execution time: 0.0360
+DEBUG - 2015-11-24 10:05:26 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 10:05:26 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 10:05:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 10:05:26 --> Total execution time: 0.0300
+DEBUG - 2015-11-24 10:05:34 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 10:05:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 10:05:35 --> Total execution time: 0.0620
+DEBUG - 2015-11-24 10:06:50 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 10:06:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 10:06:54 --> Total execution time: 4.5853
+DEBUG - 2015-11-24 10:09:12 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 10:09:12 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 10:09:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 10:09:12 --> Total execution time: 0.0530
+DEBUG - 2015-11-24 10:09:28 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 10:09:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 10:09:32 --> Total execution time: 4.4863
+DEBUG - 2015-11-24 10:10:43 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 10:10:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 10:10:48 --> Total execution time: 4.5363
+DEBUG - 2015-11-24 10:22:34 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 10:22:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 10:22:39 --> Total execution time: 4.5733
+DEBUG - 2015-11-24 10:56:24 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 10:56:24 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 10:56:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 10:56:25 --> Total execution time: 0.0390
+DEBUG - 2015-11-24 10:56:29 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 10:56:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 10:56:29 --> Total execution time: 0.0600
+DEBUG - 2015-11-24 11:15:04 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 11:15:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 11:15:04 --> Total execution time: 0.0510
+DEBUG - 2015-11-24 11:15:06 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 11:15:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 11:15:07 --> Total execution time: 0.0510
+DEBUG - 2015-11-24 11:49:49 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 11:49:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 11:49:49 --> Total execution time: 0.0920
+DEBUG - 2015-11-24 12:06:29 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 12:06:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 12:06:29 --> Total execution time: 0.0600
+DEBUG - 2015-11-24 12:06:32 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 12:06:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 12:06:32 --> Total execution time: 0.0430
+DEBUG - 2015-11-24 12:07:11 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 12:07:11 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 12:07:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 12:07:11 --> Total execution time: 0.0360
+DEBUG - 2015-11-24 12:07:37 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 12:07:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 12:07:37 --> Total execution time: 0.0570
+DEBUG - 2015-11-24 12:08:19 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 12:08:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 12:08:19 --> Total execution time: 0.0640
+DEBUG - 2015-11-24 12:09:00 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 12:09:00 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2015-11-24 12:09:00 --> Severity: Notice --> Array to string conversion C:\wamp\www\sanskrit\application\views\api\textcompare.php 1
+ERROR - 2015-11-24 12:09:00 --> Severity: Notice --> Array to string conversion C:\wamp\www\sanskrit\application\views\api\textcompare.php 1
+ERROR - 2015-11-24 12:09:00 --> Severity: Notice --> Array to string conversion C:\wamp\www\sanskrit\application\views\api\textcompare.php 1
+DEBUG - 2015-11-24 12:09:00 --> Total execution time: 0.0510
+DEBUG - 2015-11-24 12:09:52 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 12:09:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 12:09:52 --> Total execution time: 0.0710
+DEBUG - 2015-11-24 12:10:17 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 12:10:17 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 12:10:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 12:10:17 --> Total execution time: 0.0300
+DEBUG - 2015-11-24 12:10:20 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 12:10:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 12:10:20 --> Total execution time: 0.0630
+DEBUG - 2015-11-24 12:11:17 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 12:11:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 12:11:17 --> Total execution time: 0.0590
+DEBUG - 2015-11-24 12:19:50 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 12:19:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 12:19:51 --> Total execution time: 0.0520
+DEBUG - 2015-11-24 12:20:42 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 12:20:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 12:20:42 --> Total execution time: 0.0530
+DEBUG - 2015-11-24 12:20:45 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 12:20:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 12:20:45 --> Total execution time: 0.0630
+DEBUG - 2015-11-24 12:22:01 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 12:22:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 12:22:01 --> Total execution time: 0.0580
+DEBUG - 2015-11-24 12:23:19 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 12:23:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 12:23:19 --> Total execution time: 0.0630
+DEBUG - 2015-11-24 12:24:54 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 12:24:54 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 12:24:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 12:24:54 --> Total execution time: 0.0310
+DEBUG - 2015-11-24 12:24:57 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 12:24:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 12:24:57 --> Total execution time: 0.0370
+DEBUG - 2015-11-24 12:25:36 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 12:25:36 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 12:25:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 12:25:36 --> Total execution time: 0.0320
+DEBUG - 2015-11-24 12:25:39 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 12:25:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 12:25:39 --> Total execution time: 0.0390
+DEBUG - 2015-11-24 12:27:03 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 12:27:03 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 12:27:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 12:27:03 --> Total execution time: 0.0350
+DEBUG - 2015-11-24 12:29:07 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 12:29:07 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 12:29:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 12:29:07 --> Total execution time: 0.0300
+DEBUG - 2015-11-24 12:29:15 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 12:29:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 12:29:15 --> Total execution time: 0.0560
+DEBUG - 2015-11-24 12:29:21 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 12:29:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 12:29:21 --> Total execution time: 0.0360
+DEBUG - 2015-11-24 12:30:35 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 12:30:35 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 12:30:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 12:30:35 --> Total execution time: 0.0340
+DEBUG - 2015-11-24 12:30:36 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 12:30:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 12:30:36 --> Total execution time: 0.0670
+DEBUG - 2015-11-24 12:32:34 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 12:32:34 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 12:32:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 12:32:34 --> Total execution time: 0.0370
+DEBUG - 2015-11-24 12:32:36 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 12:32:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 12:32:36 --> Total execution time: 0.0740
+DEBUG - 2015-11-24 13:01:38 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 13:01:38 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 13:01:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 13:01:38 --> Total execution time: 0.0350
+DEBUG - 2015-11-24 13:01:42 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 13:01:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 13:01:42 --> Total execution time: 0.0700
+DEBUG - 2015-11-24 13:02:09 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 13:02:09 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 13:02:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 13:02:09 --> Total execution time: 0.0440
+DEBUG - 2015-11-24 13:02:20 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 13:02:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 13:02:20 --> Total execution time: 0.0850
+DEBUG - 2015-11-24 13:03:39 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 13:03:39 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 13:03:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 13:03:39 --> Total execution time: 0.0440
+DEBUG - 2015-11-24 13:03:49 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 13:03:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 13:03:49 --> Total execution time: 0.0470
+DEBUG - 2015-11-24 13:03:54 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 13:03:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 13:03:54 --> Total execution time: 0.0630
+DEBUG - 2015-11-24 13:04:32 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 13:04:32 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 13:04:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 13:04:32 --> Total execution time: 0.0310
+DEBUG - 2015-11-24 13:04:36 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 13:04:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 13:04:36 --> Total execution time: 0.0600
+DEBUG - 2015-11-24 13:04:59 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 13:04:59 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 13:04:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 13:04:59 --> Total execution time: 0.0650
+DEBUG - 2015-11-24 13:05:04 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 13:05:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 13:05:04 --> Total execution time: 0.0660
+DEBUG - 2015-11-24 13:05:43 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 13:05:43 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 13:05:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 13:05:43 --> Total execution time: 0.0320
+DEBUG - 2015-11-24 13:05:46 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 13:05:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 13:05:46 --> Total execution time: 0.0780
+DEBUG - 2015-11-24 13:07:45 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 13:07:45 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 13:07:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 13:07:45 --> Total execution time: 0.0380
+DEBUG - 2015-11-24 13:07:48 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 13:07:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 13:07:48 --> Total execution time: 0.0780
+DEBUG - 2015-11-24 13:07:52 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 13:07:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 13:07:52 --> Total execution time: 0.0610
+DEBUG - 2015-11-24 13:09:06 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 13:09:06 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 13:09:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 13:09:06 --> Total execution time: 0.0370
+DEBUG - 2015-11-24 13:09:10 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 13:09:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 13:09:10 --> Total execution time: 0.1480
+DEBUG - 2015-11-24 13:10:35 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 13:10:35 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 13:10:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 13:10:35 --> Total execution time: 0.0610
+DEBUG - 2015-11-24 13:10:41 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 13:10:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 13:10:41 --> Total execution time: 0.0680
+DEBUG - 2015-11-24 13:11:04 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 13:11:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 13:11:11 --> Total execution time: 6.6784
+DEBUG - 2015-11-24 14:02:53 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 14:02:53 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 14:02:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 14:02:53 --> Total execution time: 0.0490
+DEBUG - 2015-11-24 14:03:16 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 14:03:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 14:03:16 --> Total execution time: 0.0590
+DEBUG - 2015-11-24 14:05:40 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 14:05:40 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 14:05:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 14:05:40 --> Total execution time: 0.0310
+DEBUG - 2015-11-24 14:05:42 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 14:05:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 14:05:42 --> Total execution time: 0.0620
+DEBUG - 2015-11-24 14:06:51 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 14:06:51 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 14:06:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 14:06:51 --> Total execution time: 0.0310
+DEBUG - 2015-11-24 14:06:56 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 14:06:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 14:06:56 --> Total execution time: 0.0330
+DEBUG - 2015-11-24 14:07:31 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 14:07:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 14:07:31 --> Total execution time: 0.0320
+DEBUG - 2015-11-24 14:10:16 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 14:10:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 14:10:16 --> Total execution time: 0.0430
+DEBUG - 2015-11-24 14:12:04 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 14:12:04 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 14:12:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 14:12:04 --> Total execution time: 0.0370
+DEBUG - 2015-11-24 14:12:55 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 14:12:55 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 14:12:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 14:12:55 --> Total execution time: 0.0350
+DEBUG - 2015-11-24 14:13:00 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 14:13:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 14:13:00 --> Total execution time: 0.0530
+DEBUG - 2015-11-24 14:14:00 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 14:14:00 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 14:14:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 14:14:00 --> Total execution time: 0.0350
+DEBUG - 2015-11-24 14:20:08 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 14:20:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 14:20:08 --> Total execution time: 0.0480
+DEBUG - 2015-11-24 14:20:17 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 14:20:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 14:20:17 --> Total execution time: 0.0440
+DEBUG - 2015-11-24 14:20:36 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 14:20:36 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 14:20:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 14:20:36 --> Total execution time: 0.0300
+DEBUG - 2015-11-24 14:20:47 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 14:20:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 14:20:47 --> Total execution time: 0.0550
+DEBUG - 2015-11-24 14:21:41 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 14:21:41 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 14:21:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 14:21:42 --> Total execution time: 0.0480
+DEBUG - 2015-11-24 14:23:15 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 14:23:15 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 14:23:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 14:23:15 --> Total execution time: 0.0410
+DEBUG - 2015-11-24 14:23:19 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 14:23:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 14:23:20 --> Total execution time: 0.0480
+DEBUG - 2015-11-24 14:39:11 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 14:39:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 14:39:11 --> Total execution time: 0.0400
+DEBUG - 2015-11-24 15:02:55 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 15:02:55 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 15:02:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 15:02:55 --> Total execution time: 0.0310
+DEBUG - 2015-11-24 15:03:06 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 15:03:06 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 15:03:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 15:03:06 --> Total execution time: 0.0460
+DEBUG - 2015-11-24 15:03:31 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 15:03:31 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 15:03:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 15:03:31 --> Total execution time: 0.0280
+DEBUG - 2015-11-24 15:13:22 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 15:13:22 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 15:13:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 15:13:22 --> Total execution time: 0.0320
+DEBUG - 2015-11-24 15:13:36 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 15:13:36 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 15:13:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 15:13:36 --> Total execution time: 0.0290
+DEBUG - 2015-11-24 15:16:41 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 15:16:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 15:16:41 --> Total execution time: 0.0370
+DEBUG - 2015-11-24 15:17:38 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 15:17:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 15:17:38 --> Total execution time: 0.0480
+DEBUG - 2015-11-24 15:26:19 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 15:26:19 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 15:26:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 15:26:19 --> Total execution time: 0.0290
+DEBUG - 2015-11-24 15:40:02 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 15:40:02 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 15:40:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 15:40:02 --> Total execution time: 0.0460
+DEBUG - 2015-11-24 15:44:49 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 15:44:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 15:44:49 --> Total execution time: 0.0380
+DEBUG - 2015-11-24 15:48:37 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 15:48:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 15:48:37 --> Total execution time: 0.0600
+DEBUG - 2015-11-24 16:24:38 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 16:24:38 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 16:24:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 16:24:38 --> Total execution time: 0.0320
+DEBUG - 2015-11-24 16:24:40 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 16:24:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 16:24:40 --> Total execution time: 0.0660
+DEBUG - 2015-11-24 16:28:25 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 16:28:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 16:28:25 --> Total execution time: 0.3740
+DEBUG - 2015-11-24 17:30:15 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 17:30:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 17:30:17 --> Total execution time: 1.5761
+DEBUG - 2015-11-24 17:42:50 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 17:42:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 17:42:51 --> Total execution time: 1.6161
+DEBUG - 2015-11-24 17:44:23 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 17:44:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 17:44:24 --> Total execution time: 1.3591
+DEBUG - 2015-11-24 17:44:41 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 17:44:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 17:44:42 --> Total execution time: 1.5891
+DEBUG - 2015-11-24 17:46:09 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 17:46:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 17:46:11 --> Total execution time: 1.3971
+DEBUG - 2015-11-24 18:01:00 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 18:01:00 --> No URI present. Default controller set.
+DEBUG - 2015-11-24 18:01:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 18:01:00 --> Total execution time: 0.1810
+DEBUG - 2015-11-24 18:01:39 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 18:01:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 18:01:40 --> Total execution time: 0.7710
+DEBUG - 2015-11-24 18:07:38 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 18:07:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 18:07:39 --> Total execution time: 0.7400
+DEBUG - 2015-11-24 18:10:03 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 18:10:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 18:10:03 --> Total execution time: 0.7290
+DEBUG - 2015-11-24 18:21:19 --> UTF-8 Support Enabled
+DEBUG - 2015-11-24 18:21:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-11-24 18:21:19 --> Total execution time: 0.0250

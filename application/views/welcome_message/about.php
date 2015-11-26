@@ -14,13 +14,13 @@
             <p>
                 <a id="select-devanagari" href="javascript:void(0);" class="btn btn-warning btn-xl">เทวนาครี</a>
             </p>
-            <textarea id='devanagari'  class="select-lang" >लोकाः समस्ताः सुखिनोभवन्तु</textarea>
+            <textarea id='textarea-devanagari'  class="select-lang" >लोकाः समस्ताः सुखिनोभवन्तु</textarea>
         </div>
         <div class="text-center" style="width: 50%;float:left;">
             <p>
                 <a id="select-roman" href="javascript:void(0);" class="btn btn-warning btn-xl">โรมาไนซ์</a>
             </p>
-            <textarea id='roman' class="select-lang" >lokāḥ samastāḥ sukhinobhavantu</textarea>
+            <textarea id='textarea-roman' class="select-lang" >lokāḥ samastāḥ sukhinobhavantu</textarea>
         </div>
     </div>
     <div style="clear: both"></div>
@@ -29,19 +29,30 @@
             <div class="col-lg-8 col-lg-offset-2 text-center">              
                 <p>หากเลือกตัวอักษรต้นฉบับ เป็น เทวนาครี กดคลิกหนึ่งครั้ง เทวนาครี จะถูกปริวรรต โรมาไนซ์  </p>
 
-                <a href="#compare" id="translite-button" class="btn btn-warning btn-xl page-scroll">ปริวรรต เป็น ไทย-สันสฤต</a>
-                <p id="compare"></p>
+                <a href="#compare" id="translite-button" class="btn btn-info btn-xl page-scroll">
+                    <span class="glyphicon glyphicon glyphicon-transfer" aria-hidden="true"></span>
+                    &nbsp;ปริวรรต เป็น ไทย-สันสฤต
+                </a>
             </div>
         </div>
     </div>
-
-    <div style="clear: both"></div>
+    <hr>
+    <div id="compare" style="clear: both;height: 50px"></div>
     <div id="translite" style="display:none ">
         <!-- translite ajax call -->
-
     </div>
     <div style="clear: both"></div>
+    <div class="container">
+        <div class="row" style="height: 100px">
+            <div class="col-lg-8 col-lg-offset-2 text-center">              
+                <p> </p>          
+                <a href="#about" class="btn btn-default btn-xl page-scroll">
+                    <span class="glyphicon glyphicon-arrow-up" aria-hidden="true"></span>
+                    กลับไปปริวรรต
+                </a>
+            </div>
+        </div>
+    </div>   
 
-</div>
-<div style="clear: both"></div>
+    <div style="clear: both;"></div>
 </section>

@@ -1,8 +1,8 @@
 
 <script type="text/javascript">
     var statusSelect = "";
-    var devanagari = $('#devanagari');
-    var roman = $('#roman');
+    var devanagari = $('#textarea-devanagari');
+    var roman = $('#textarea-roman');
     var selDevanagari = $('#select-devanagari');
     var selRoman = $('#select-roman');
     var transliteButton = $('#translite-button');
@@ -111,6 +111,25 @@
         $('.syllable').removeClass('hilight');
         $("#thai-" + num).addClass('hilight');
         $("#romanize-" + num).addClass('hilight');
+        $("#devanagari-" + num).addClass('hilight');
+
+    });
+
+    var counterChecked = 0;
+    $(document).on('click', '.checkbox-sanskrit', function () {
+        var val = $(this).val();
+        var countCheck = $('.checkbox-sanskrit:checkbox:checked').length;
+        var percentwidth = (100 / countCheck).toFixed(2)-2;
+//        alert(percentwidth);
+        if (!isNaN(percentwidth)) {
+             $('.code').width(percentwidth+'%');       
+        }
+
+        if ($(this).is(':checked')) {
+            $("#" + val).show('slow');
+        } else {
+            $("#" + val).hide('slow');
+        }
 
     });
 

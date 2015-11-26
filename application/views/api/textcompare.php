@@ -1,4 +1,5 @@
-<div id="<?php echo $lang_id; ?>" class="code">
+
+<div id="<?php echo $lang_id; ?>" class="code" <?php echo $lang_show ? "" : 'style="display:none"'; ?>>
     <p class="text-center code-p"><?php echo $lang_name; ?></p>
     <ol class="code-ol">
         <?php foreach ($line_sanskrit as $key_line => $syllableList) { ?>
