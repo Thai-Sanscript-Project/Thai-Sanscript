@@ -77,7 +77,7 @@
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
                             <div class="project-category text-faded">
-                                sacred-texts.com/hin/
+                                sacred-texts.com/hin
                             </div>
                             <div class="project-name">
                                 Collection of Hindu texts : Vedas   Upanishads   Puranas   Other Primary Texts   Epics   Mahabharata   Ramayana   Bhagavad Gita   Vedanta 
@@ -87,15 +87,15 @@
                 </a>
             </div>
             <div class="col-lg-4 col-sm-6">
-                <a href="#" class="portfolio-box">
+                <a href="http://www.sanskrit-lexicon.uni-koeln.de/" class="portfolio-box">
                     <img src="inc/img/portfolio/6.jpg" class="img-responsive" alt="">
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
                             <div class="project-category text-faded">
-                                Category
+                                sanskrit-lexicon.uni-koeln.de
                             </div>
                             <div class="project-name">
-                                Project Name
+                                web page provides access to many of the Sanskrit lexicons prepared by the Institute of Indology and Tamil Studies, Cologne University.
                             </div>
                         </div>
                     </div>

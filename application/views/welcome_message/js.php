@@ -30,12 +30,17 @@
 
     function thaiTransliteration() {
         transliteButton.click(function () {
-
+            var d = new Date();
+            var timestamp = d.getTime();
             $.ajax({
                 type: "POST",
                 url: "<?php echo site_url('api'); ?>",
                 method: "POST",
-                data: {"sanskrit-romanize": roman.val(), "sanskrit-devanagari": devanagari.val()},
+                data: {
+                    "sanskrit-romanize": roman.val(),
+                    "sanskrit-devanagari": devanagari.val(),
+                    "timestamp": timestamp
+                },
                 dataType: "html",
                 success: function (data) {
                     translite.html(data);
@@ -119,10 +124,10 @@
     $(document).on('click', '.checkbox-sanskrit', function () {
         var val = $(this).val();
         var countCheck = $('.checkbox-sanskrit:checkbox:checked').length;
-        var percentwidth = (100 / countCheck).toFixed(2)-2;
+        var percentwidth = (100 / countCheck).toFixed(2) - 2;
 //        alert(percentwidth);
         if (!isNaN(percentwidth)) {
-             $('.code').width(percentwidth+'%');       
+            $('.code').width(percentwidth + '%');
         }
 
         if ($(this).is(':checked')) {

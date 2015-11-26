@@ -10,8 +10,9 @@ use ThaiSanskrit\ThaiSanscriptAPI;
 class Api extends CI_Controller {
 
     public function index() {
-       $timestamp = round(microtime(true) * 1000);
+
 //        /* @var $thaiSanscriptAPI ThaiSanscriptAPI */
+        $timestamp = filter_input(INPUT_POST, 'timestamp');
         $romanize = filter_input(INPUT_POST, 'sanskrit-romanize');
         $devanagari = filter_input(INPUT_POST, 'sanskrit-devanagari');
         $thaiSanscriptAPI = new ThaiSanscriptAPI();
@@ -25,21 +26,21 @@ class Api extends CI_Controller {
             $devanagari_id = "devanagari";
             $lang_name = "เทวนาครี";
             $show = FALSE;
-            $dev = $this->setLang($devanagari_id, $lang_name,$show, $line_sanskrit);
-            $checkbox = $this->setCheckbox($devanagari_id, $lang_name,$show, $checkbox);
+            $dev = $this->setLang($devanagari_id, $lang_name, $show, $line_sanskrit);
+            $checkbox = $this->setCheckbox($devanagari_id, $lang_name, $show, $checkbox);
         }
         $romanize_id = "romanize";
         $lang_name = "โรมาไนซ์";
         $show = TRUE;
-        $romanize = $this->setLang($romanize_id, $lang_name,$show, $line_sanskrit);
-        $checkbox = $this->setCheckbox($romanize_id, $lang_name,$show, $checkbox);
+        $romanize = $this->setLang($romanize_id, $lang_name, $show, $line_sanskrit);
+        $checkbox = $this->setCheckbox($romanize_id, $lang_name, $show, $checkbox);
 
         $thai_id = "thai";
         $lang_name = "ไทยรูปแบบทั่วไป(แบบปรับรูป)";
         $show = TRUE;
-        $thai = $this->setLang($thai_id, $lang_name,$show, $line_sanskrit);
-        
-        $checkbox = $this->setCheckbox($thai_id, $lang_name,$show, $checkbox);
+        $thai = $this->setLang($thai_id, $lang_name, $show, $line_sanskrit);
+
+        $checkbox = $this->setCheckbox($thai_id, $lang_name, $show, $checkbox);
 
 
         $this->load->view('api/checkbox_generate', $checkbox);
