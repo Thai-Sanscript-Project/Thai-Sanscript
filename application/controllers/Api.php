@@ -39,14 +39,14 @@ class Api extends CI_Controller {
         $checkbox = $this->setCheckbox($romanize_id, $lang_name, $show, $checkbox);
 
         $thai_id = "thai";
-        $lang_name = "ไทยรูปแบบทั่วไป(แบบปรับรูป)";
+        $lang_name = "ไทย-ทั่วไป(แบบปรับรูป)";
         $show = TRUE;
         $thai = $this->setLang($thai_id, $lang_name, $show, $line_sanskrit);
         $checkbox = $this->setCheckbox($thai_id, $lang_name, $show, $checkbox);
         
         $thai_inform_id = "thai_inform";
-        $lang_name = "ไทยรูปแบบแบบแผน(แบบคงรูป)";
-        $show = TRUE;
+        $lang_name = "ไทย-แบบแผน(แบบคงรูป)";
+        $show = FALSE;
         $thai_inform = $this->setLang($thai_inform_id, $lang_name, $show, $line_sanskrit);
         $checkbox = $this->setCheckbox($thai_inform_id, $lang_name, $show, $checkbox);
 
