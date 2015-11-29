@@ -115,6 +115,7 @@
         var num = idsplit[1] + "-" + idsplit[2];
         $('.syllable').removeClass('hilight');
         $("#thai-" + num).addClass('hilight');
+        $("#thai_inform-" + num).addClass('hilight');
         $("#romanize-" + num).addClass('hilight');
         $("#devanagari-" + num).addClass('hilight');
 

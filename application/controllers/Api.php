@@ -4,6 +4,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 require_once('thaisanscript.php/src/ThaiSanscriptAPI.php');
 require_once('thaisanscript.php/src/ThaiSanscript.php');
 require_once('thaisanscript.php/src/ThaiSanscriptRule.php');
+require_once('thaisanscript.php/src/ThaiSanscriptInformRule.php');
+require_once('thaisanscript.php/src/ThaiVisargaRuleConvert.php');
+require_once('thaisanscript.php/src/Util.php');
 
 use ThaiSanskrit\ThaiSanscriptAPI;
 
@@ -39,9 +42,15 @@ class Api extends CI_Controller {
         $lang_name = "ไทยรูปแบบทั่วไป(แบบปรับรูป)";
         $show = TRUE;
         $thai = $this->setLang($thai_id, $lang_name, $show, $line_sanskrit);
-
         $checkbox = $this->setCheckbox($thai_id, $lang_name, $show, $checkbox);
+        
+        $thai_inform_id = "thai_inform";
+        $lang_name = "ไทยรูปแบบแบบแผน(แบบคงรูป)";
+        $show = TRUE;
+        $thai_inform = $this->setLang($thai_inform_id, $lang_name, $show, $line_sanskrit);
+        $checkbox = $this->setCheckbox($thai_inform_id, $lang_name, $show, $checkbox);
 
+         
 
         $this->load->view('api/checkbox_generate', $checkbox);
         if (isset($line_sanskrit['devanagari'])) {
@@ -49,6 +58,7 @@ class Api extends CI_Controller {
         }
         $this->load->view('api/textcompare', $romanize);
         $this->load->view('api/textcompare', $thai);
+        $this->load->view('api/textcompare', $thai_inform);
         $data['timestamp'] = $timestamp;
         $this->load->view('api/time_stamp', $data);
     }
@@ -57,7 +67,9 @@ class Api extends CI_Controller {
 
         $array['lang_id'] = $lang_id;
         $array['lang_name'] = $lang_name;
+        if(isset($line_sanskrit[$lang_id])){
         $array['line_sanskrit'] = $line_sanskrit[$lang_id];
+        }
         $array['lang_show'] = $show;
         return $array;
     }
