@@ -1,5 +1,5 @@
 <div class="modal"><!-- Place at bottom of page --></div>
-<section class="bg-primary" id="about" style="padding: 40px 0;">
+<section class="bg-primary" id="about" >
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">

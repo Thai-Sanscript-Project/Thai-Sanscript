@@ -14,8 +14,9 @@
         <?php endforeach; ?>
         <!-- end content -->      
         <?php $this->load->view('design/component/template/main_template/footer'); ?>
-        
+
         <?php $this->load->view('design/component/common/import_js'); ?>
+        
     </body>
 </html>
 <!--MAIN TEMPLATE-->

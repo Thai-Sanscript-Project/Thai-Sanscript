@@ -22,6 +22,10 @@ class Template {
 //        $this->set_lang($controller);
         $this->set_template($controller, "design/templates/main_template", $data);
     }
+    public function render_sample_template(CI_Controller $controller, $data = array()) {
+//        $this->set_lang($controller);
+        $this->set_template($controller, "design/templates/sample_template", $data);
+    }
 
     public function set_template(CI_Controller $controller, $template_view_path, $data = array()) {
         $data['page_section'] = $this->page_section;

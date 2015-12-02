@@ -50,6 +50,44 @@
     </div>
 </section>
 
+<section id="contact">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+                <h2 class="section-heading">รายงานข้อผิดพลาด !</h2>
+                <hr class="primary">
+                <p>
+                    คุณสามารถโพสต์ข้อผิดพลาดในการปริวรรตที่พบในโปรแกรมได้ที่นี่ 
+                    ข้อผิดพลาดที่สามารถแจ้งได้นั้นต้องเป็นส่วนการปริวรรต โรมาไนซ์-สันสกฤต เป็น ไทย-สันสกฤต เท่านั้น 
+                    ไม่รวมส่วนของ เทวนาครี-สันสกฤต เป็น โรมาไนซ์-สันสกฤต <br>
+                <h4>วิธีรายงานข้อผิดพลาด</h4>
+                    1. คำสันสกฤต-โรมาไนซ์ ต้นฉบับ |
+                    2. คำปริวรรต ไทย ที่ผิด |
+                    3. คำปริวรรต ไทย ที่ถูก |
+                </p>
+                
+
+                <fb:comments numposts="10"  width="800">
+                </fb:comments>  
+                <div id="fb-root"></div>  
+                <script>
+                    window.fbAsyncInit = function () {
+                        FB.init({appId: '1617778911822069', status: true, cookie: true,
+                            xfbml: true});
+                    };
+                    (function () {
+                        var e = document.createElement('script');
+                        e.type = 'text/javascript';
+                        e.src = document.location.protocol +
+                                '//connect.facebook.net/th_TH/all.js';
+                        e.async = true;
+                        document.getElementById('fb-root').appendChild(e);
+                    }());
+                </script>  
+            </div>
+        </div>
+    </div>
+</section>
 
 
 

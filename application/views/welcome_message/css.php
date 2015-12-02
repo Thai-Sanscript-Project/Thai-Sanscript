@@ -71,7 +71,7 @@
     }
     .select-lang{
         width: 98%;
-        height: 250px;
+        height: 200px;
         color: #000;
     }
 

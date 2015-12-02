@@ -1,105 +1,132 @@
 
-<section class="no-padding" id="portfolio">
+
+<section id="portfolio">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading">แหล่งเอกสาร</h2>
+                <h2 class="section-heading">เลือกตัวอักษรต้นฉบับ</h2>
                 <hr class="primary">
             </div>
         </div>
-    </div>
-    <div class="container-fluid">
-        <div class="row no-gutter">
-            <div class="col-lg-4 col-sm-6">
-                <a href="http://learnsanskrit.org/" class="portfolio-box">
-                    <img src="inc/img/portfolio/1.jpg" class="img-responsive" alt="">
-                    <div class="portfolio-box-caption">
-                        <div class="portfolio-box-caption-content">
-                            <div class="project-category text-faded">
-                                learnsanskrit.org
-                            </div>
-                            <div class="project-name">
-                                Learn Sanskrit Online
-                            </div>
+
+        <ul class="portfolio-filter text-center">
+            <li><a class="btn btn-default active" href="#" data-filter="*">All Works</a></li>
+            <li><a class="btn btn-default" href="#" data-filter=".buddha">คัมภีร์พุทธศาสนา</a></li>
+            <li><a class="btn btn-default" href="#" data-filter=".hindu">คัมภีร์พราหมณ์-ฮินดู</a></li>
+            <li><a class="btn btn-default" href="#" data-filter=".epic">วรรณคดี</a></li>
+            <li><a class="btn btn-default" href="#" data-filter=".sutra">พระสูตร</a></li>
+            <li><a class="btn btn-default" href="#" data-filter=".vinaya">พระวินัย</a></li>
+            <li><a class="btn btn-default" href="#" data-filter=".veda">พระเวท</a></li>
+        </ul><!--/#portfolio-filter-->
+
+        <div class="row">
+            <div class="portfolio-items">
+                <div class="portfolio-item buddha sutra col-xs-12 col-sm-4 col-md-3">
+                    <div class="recent-work-wrap">
+                        <img class="img-responsive" src="<?php echo base_url("inc"); ?>/images/portfolio/recent/item1.png" alt="">
+                        <div class="overlay">
+                            <div class="recent-work-inner">
+                                <h3><a href="#">วัชรปรัชญาปารมิตาสูตร</a></h3>
+                                <p>
+                                    พระสูตรสำคัญหมวดปรัชญาปารมิตาของพระพุทธศาสนาฝ่ายมหายาน
+                                    เป็นอรรถาธิบายถึงหลักศูนยตา 
+                                </p>
+                                <a class="preview" href="<?php echo base_url("inc"); ?>/images/portfolio/full/item1.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                            </div> 
                         </div>
                     </div>
-                </a>
-            </div>
-            <div class="col-lg-4 col-sm-6">
-                <a href="https://suttacentral.net/" class="portfolio-box">
-                    <img src="inc/img/portfolio/2.jpg" class="img-responsive" alt="">
-                    <div class="portfolio-box-caption">
-                        <div class="portfolio-box-caption-content">
-                            <div class="project-category text-faded">
-                                suttacentral.net
-                            </div>
-                            <div class="project-name">
-                                SuttaCentral: Early Buddhist texts, translations, and parallels
-                            </div>
+                </div><!--/.portfolio-item-->
+
+                <div class="portfolio-item buddha vinaya col-xs-12 col-sm-4 col-md-3">
+                    <div class="recent-work-wrap">
+                        <img class="img-responsive" src="<?php echo base_url("inc"); ?>/images/portfolio/recent/item2.png" alt="">
+                        <div class="overlay">
+                            <div class="recent-work-inner">
+                                <h3><a href="#">มหาสังฆิกะปราติโมกษ์</a></h3>
+                                <p>สิกขาบทของภิกษุนิกายมหาสังฆิกะ ที่แสดงกันในที่ประชุมสงฆ์ ทุกระยะครึ่งเดือน</p>
+                                <a class="preview" href="<?php echo base_url("inc"); ?>/images/portfolio/full/item2.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                            </div> 
                         </div>
-                    </div>
-                </a>
-            </div>
-            <div class="col-lg-4 col-sm-6">
-                <a href="http://www.dsbcproject.org/" class="portfolio-box">
-                    <img src="inc/img/portfolio/3.jpg" class="img-responsive" alt="">
-                    <div class="portfolio-box-caption">
-                        <div class="portfolio-box-caption-content">
-                            <div class="project-category text-faded">
-                                dsbcproject.org
-                            </div>
-                            <div class="project-name">
-                                Digital Sanskrit Buddhist Canon
-                            </div>
+                    </div>          
+                </div><!--/.portfolio-item-->
+
+                <div class="portfolio-item buddha sutra col-xs-12 col-sm-4 col-md-3">
+                    <div class="recent-work-wrap">
+                        <img class="img-responsive" src="<?php echo base_url("inc"); ?>/images/portfolio/recent/item3.png" alt="">
+                        <div class="overlay">
+                            <div class="recent-work-inner">
+                                <h3><a href="#">ลลิตวิสตระ นิทานปริวรรต</a></h3>
+                                <p>ลลิตวิสตระเป็นคัมภีร์ในนิกายมหายาน ว่าด้วยเรื่องพุทธประวัติ </p>
+                                <a class="preview" href="<?php echo base_url("inc"); ?>/images/portfolio/full/item3.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                            </div> 
                         </div>
-                    </div>
-                </a>
-            </div>
-            <div class="col-lg-4 col-sm-6">
-                <a href="http://gretil.sub.uni-goettingen.de/" class="portfolio-box">
-                    <img src="inc/img/portfolio/4.jpg" class="img-responsive" alt="">
-                    <div class="portfolio-box-caption">
-                        <div class="portfolio-box-caption-content">
-                            <div class="project-category text-faded">
-                                gretil.sub.uni-goettingen.de
-                            </div>
-                            <div class="project-name">
-                                GRETIL - Göttingen Register of Electronic Texts in Indian Languages
-                                and related Indological materials from Central and Southeast Asia
-                            </div>
+                    </div>        
+                </div><!--/.portfolio-item-->
+
+                <div class="portfolio-item buddha sutra apps col-xs-12 col-sm-4 col-md-3">
+                    <div class="recent-work-wrap">
+                        <img class="img-responsive" src="<?php echo base_url("inc"); ?>/images/portfolio/recent/item4.png" alt="">
+                        <div class="overlay">
+                            <div class="recent-work-inner">
+                                <h3><a href="#">Business theme</a></h3>
+                                <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
+                                <a class="preview" href="<?php echo base_url("inc"); ?>/images/portfolio/full/item4.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                            </div> 
                         </div>
-                    </div>
-                </a>
-            </div>
-            <div class="col-lg-4 col-sm-6">
-                <a href="http://www.sacred-texts.com/hin/" class="portfolio-box">
-                    <img src="inc/img/portfolio/5.jpg" class="img-responsive" alt="">
-                    <div class="portfolio-box-caption">
-                        <div class="portfolio-box-caption-content">
-                            <div class="project-category text-faded">
-                                sacred-texts.com/hin
-                            </div>
-                            <div class="project-name">
-                                Collection of Hindu texts : Vedas   Upanishads   Puranas   Other Primary Texts   Epics   Mahabharata   Ramayana   Bhagavad Gita   Vedanta 
-                            </div>
+                    </div>           
+                </div><!--/.portfolio-item-->
+
+                <div class="portfolio-item hindu html bootstrap col-xs-12 col-sm-4 col-md-3">
+                    <div class="recent-work-wrap">
+                        <img class="img-responsive" src="<?php echo base_url("inc"); ?>/images/portfolio/recent/item5.png" alt="">
+                        <div class="overlay">
+                            <div class="recent-work-inner">
+                                <h3><a href="#">Business theme</a></h3>
+                                <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
+                                <a class="preview" href="<?php echo base_url("inc"); ?>/images/portfolio/full/item5.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                            </div> 
                         </div>
-                    </div>
-                </a>
-            </div>
-            <div class="col-lg-4 col-sm-6">
-                <a href="http://www.sanskrit-lexicon.uni-koeln.de/" class="portfolio-box">
-                    <img src="inc/img/portfolio/6.jpg" class="img-responsive" alt="">
-                    <div class="portfolio-box-caption">
-                        <div class="portfolio-box-caption-content">
-                            <div class="project-category text-faded">
-                                sanskrit-lexicon.uni-koeln.de
-                            </div>
-                            <div class="project-name">
-                                web page provides access to many of the Sanskrit lexicons prepared by the Institute of Indology and Tamil Studies, Cologne University.
-                            </div>
+                    </div>      
+                </div><!--/.portfolio-item-->
+
+                <div class="portfolio-item hindu html apps col-xs-12 col-sm-4 col-md-3">
+                    <div class="recent-work-wrap">
+                        <img class="img-responsive" src="<?php echo base_url("inc"); ?>/images/portfolio/recent/item6.png" alt="">
+                        <div class="overlay">
+                            <div class="recent-work-inner">
+                                <h3><a href="#">Business theme</a></h3>
+                                <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
+                                <a class="preview" href="<?php echo base_url("inc"); ?>/images/portfolio/full/item6.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                            </div> 
                         </div>
-                    </div>
-                </a>
+                    </div>         
+                </div><!--/.portfolio-item-->
+
+                <div class="portfolio-item hindu html col-xs-12 col-sm-4 col-md-3">
+                    <div class="recent-work-wrap">
+                        <img class="img-responsive" src="<?php echo base_url("inc"); ?>/images/portfolio/recent/item7.png" alt="">
+                        <div class="overlay">
+                            <div class="recent-work-inner">
+                                <h3><a href="#">Business theme</a></h3>
+                                <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
+                                <a class="preview" href="<?php echo base_url("inc"); ?>/images/portfolio/full/item7.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                            </div> 
+                        </div>
+                    </div>          
+                </div><!--/.portfolio-item-->
+
+                <div class="portfolio-item hindu html bootstrap col-xs-12 col-sm-4 col-md-3">
+                    <div class="recent-work-wrap">
+                        <img class="img-responsive" src="<?php echo base_url("inc"); ?>/images/portfolio/recent/item8.png" alt="">
+                        <div class="overlay">
+                            <div class="recent-work-inner">
+                                <h3><a href="#">Business theme</a></h3>
+                                <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
+                                <a class="preview" href="<?php echo base_url("inc"); ?>/images/portfolio/full/item8.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                            </div> 
+                        </div>
+                    </div>          
+                </div><!--/.portfolio-item-->
             </div>
         </div>
     </div>

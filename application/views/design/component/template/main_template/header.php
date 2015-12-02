@@ -26,11 +26,15 @@
                     <a class="page-scroll" href="#services">นโยบายการใช้งาน</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#portfolio">แหล่งเอกสาร</a>
+                    <a class="page-scroll" href="#document">แหล่งเอกสาร</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#portfolio">ตัวอย่างการปริวรรต </a>
                 </li>
                 <li>
                     <a class="page-scroll" href="#contact">รายงานข้อผิดพลาด </a>
                 </li>
+                
             </ul>
         </div>
         <!-- /.navbar-collapse -->
