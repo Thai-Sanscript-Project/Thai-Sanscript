@@ -11,7 +11,7 @@
                 <span class="icon-bar"></span>
             </button>
             <a class="navbar-brand page-scroll" href="#">
-                 Thai - Sanscript 0.9 (Beta)
+                 Thai - Sanscript V.1
             </a>
             
         </div>

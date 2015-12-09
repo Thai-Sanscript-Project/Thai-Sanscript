@@ -107,20 +107,18 @@
         translite.hide('slow');
     }
 
-
-
-    $(document).on('click', '.syllable', function () {
+    $(document).on('click', '.s', function () {
         var str = $(this).attr('id');
         var idsplit = str.split("-");
         var num = idsplit[1] + "-" + idsplit[2];
-        $('.syllable').removeClass('hilight');
-        $("#thai-" + num).addClass('hilight');
-        $("#thai_inform-" + num).addClass('hilight');
-        $("#romanize-" + num).addClass('hilight');
-        $("#devanagari-" + num).addClass('hilight');
-
+       
+        $('.s').removeClass('hilight');
+        $("#0-" + num).addClass('hilight');
+        $("#1-" + num).addClass('hilight');
+        $("#2-" + num).addClass('hilight');
+        $("#3-" + num).addClass('hilight');
     });
-
+    
     var counterChecked = 0;
     $(document).on('click', '.checkbox-sanskrit', function () {
         var val = $(this).val();
@@ -132,9 +130,9 @@
         }
 
         if ($(this).is(':checked')) {
-            $("#" + val).show('slow');
+            $("#" + val).show("slow");
         } else {
-            $("#" + val).hide('slow');
+            $("#" + val).hide("slow");
         }
 
     });

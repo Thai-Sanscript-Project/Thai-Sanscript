@@ -12,6 +12,11 @@ use ThaiSanskrit\ThaiSanscriptAPI;
 
 class Api extends CI_Controller {
 
+    public static $ROMANIZE = 0;
+    public static $THAI = 1;
+    public static $THAIINFORM = 2;
+    public static $DEVANAGARI = 3;
+
     public function index() {
 
 //        /* @var $thaiSanscriptAPI ThaiSanscriptAPI */
@@ -25,35 +30,35 @@ class Api extends CI_Controller {
         $dev = array();
         $thai = array();
 
-        if (isset($line_sanskrit['devanagari'])) {
-            $devanagari_id = "devanagari";
+        if (isset($line_sanskrit[Api::$DEVANAGARI])) {
+            $devanagari_id = Api::$DEVANAGARI;
             $lang_name = "เทวนาครี";
             $show = FALSE;
             $dev = $this->setLang($devanagari_id, $lang_name, $show, $line_sanskrit);
             $checkbox = $this->setCheckbox($devanagari_id, $lang_name, $show, $checkbox);
         }
-        $romanize_id = "romanize";
+        $romanize_id = Api::$ROMANIZE;
         $lang_name = "โรมาไนซ์";
         $show = TRUE;
         $romanize = $this->setLang($romanize_id, $lang_name, $show, $line_sanskrit);
         $checkbox = $this->setCheckbox($romanize_id, $lang_name, $show, $checkbox);
 
-        $thai_id = "thai";
+        $thai_id = Api::$THAI;
         $lang_name = "ไทย-ทั่วไป(แบบปรับรูป)";
         $show = TRUE;
         $thai = $this->setLang($thai_id, $lang_name, $show, $line_sanskrit);
         $checkbox = $this->setCheckbox($thai_id, $lang_name, $show, $checkbox);
-        
-        $thai_inform_id = "thai_inform";
+
+        $thai_inform_id = Api::$THAIINFORM;
         $lang_name = "ไทย-แบบแผน(แบบคงรูป)";
         $show = FALSE;
         $thai_inform = $this->setLang($thai_inform_id, $lang_name, $show, $line_sanskrit);
         $checkbox = $this->setCheckbox($thai_inform_id, $lang_name, $show, $checkbox);
 
-         
+
 
         $this->load->view('api/checkbox_generate', $checkbox);
-        if (isset($line_sanskrit['devanagari'])) {
+        if (isset($line_sanskrit[Api::$DEVANAGARI])) {
             $this->load->view('api/textcompare', $dev);
         }
         $this->load->view('api/textcompare', $romanize);
@@ -67,8 +72,8 @@ class Api extends CI_Controller {
 
         $array['lang_id'] = $lang_id;
         $array['lang_name'] = $lang_name;
-        if(isset($line_sanskrit[$lang_id])){
-        $array['line_sanskrit'] = $line_sanskrit[$lang_id];
+        if (isset($line_sanskrit[$lang_id])) {
+            $array['line_sanskrit'] = $line_sanskrit[$lang_id];
         }
         $array['lang_show'] = $show;
         return $array;

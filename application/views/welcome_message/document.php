@@ -12,7 +12,7 @@
         <div class="row no-gutter">
             <div class="col-lg-4 col-sm-6">
                 <a href="http://learnsanskrit.org/" class="portfolio-box">
-                    <img src="inc/img/portfolio/1.jpg" class="img-responsive" alt="">
+                    <img src="<?php echo base_url() ?>/inc/img/portfolio/1.jpg" class="img-responsive" alt="">
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
                             <div class="project-category text-faded">
@@ -27,7 +27,7 @@
             </div>
             <div class="col-lg-4 col-sm-6">
                 <a href="https://suttacentral.net/" class="portfolio-box">
-                    <img src="inc/img/portfolio/2.jpg" class="img-responsive" alt="">
+                    <img src="<?php echo base_url() ?>/inc/img/portfolio/2.jpg" class="img-responsive" alt="">
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
                             <div class="project-category text-faded">
@@ -42,7 +42,7 @@
             </div>
             <div class="col-lg-4 col-sm-6">
                 <a href="http://www.dsbcproject.org/" class="portfolio-box">
-                    <img src="inc/img/portfolio/3.jpg" class="img-responsive" alt="">
+                    <img src="<?php echo base_url() ?>/inc/img/portfolio/3.jpg" class="img-responsive" alt="">
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
                             <div class="project-category text-faded">
@@ -57,7 +57,7 @@
             </div>
             <div class="col-lg-4 col-sm-6">
                 <a href="http://gretil.sub.uni-goettingen.de/" class="portfolio-box">
-                    <img src="inc/img/portfolio/4.jpg" class="img-responsive" alt="">
+                    <img src="<?php echo base_url() ?>/inc/img/portfolio/4.jpg" class="img-responsive" alt="">
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
                             <div class="project-category text-faded">
@@ -73,7 +73,7 @@
             </div>
             <div class="col-lg-4 col-sm-6">
                 <a href="http://www.sacred-texts.com/hin/" class="portfolio-box">
-                    <img src="inc/img/portfolio/5.jpg" class="img-responsive" alt="">
+                    <img src="<?php echo base_url() ?>/inc/img/portfolio/5.jpg" class="img-responsive" alt="">
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
                             <div class="project-category text-faded">
@@ -88,7 +88,7 @@
             </div>
             <div class="col-lg-4 col-sm-6">
                 <a href="http://www.sanskrit-lexicon.uni-koeln.de/" class="portfolio-box">
-                    <img src="inc/img/portfolio/6.jpg" class="img-responsive" alt="">
+                    <img src="<?php echo base_url() ?>/inc/img/portfolio/6.jpg" class="img-responsive" alt="">
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
                             <div class="project-category text-faded">
