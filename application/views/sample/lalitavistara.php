@@ -8009,7 +8009,7 @@
 <span id="1-10-39" class="s">ธรรมะมัศรุตวา </span>
 <span id="1-10-40" class="s">กาละคะตะห์ฯ </span>
 <span id="1-10-41" class="s">สะเจทะสาวิมัม </span>
-<span id="1-10-42" class="s">ธรรมะมัโศรษยะทาชญาสยัตฯ </span>
+<span id="1-10-42" class="s">ธรรมะมะโศรษยะทาชญาสยัตฯ </span>
 <span id="1-10-43" class="s">ตัสไม </span>
 <span id="1-10-44" class="s">จาหัม </span>
 <span id="1-10-45" class="s">ประถะมัม </span>
@@ -10466,7 +10466,7 @@
 <span id="1-177-0" class="s">เอษะ </span>
 <span id="1-177-1" class="s">ทะศะพะเลนะ </span>
 <span id="1-177-2" class="s">ศากยรรษิณา </span>
-<span id="1-177-3" class="s">ธรรมะจัโกรตตะมัม </span>
+<span id="1-177-3" class="s">ธรรมะจะโกรตตะมัม </span>
 </div></li>
 <li class="code-li"><div>
 <span id="1-178-0" class="s">ฤษิปะตะนะมุเปตยะ </span>

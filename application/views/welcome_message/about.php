@@ -11,15 +11,71 @@
 
     <div>
         <div class="text-center" style="width: 50%;float:left;">
-            <p>
-                <a id="select-devanagari" href="javascript:void(0);" class="btn btn-warning btn-xl">เทวนาครี</a>
-            </p>
+            <span>
+
+                <!--<div class="btn-group " role="group" aria-label="...">-->
+                <div class="btn-group" role="group">
+                    <button id="select-devanagari" type="button" class=" btn btn-warning btn-xl dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Dropdown<span class="caret"></span>
+                    </button>
+                    <ul class="dropdown-menu">
+
+                        <li class="disabled"><a href="#">อักษรไทย</a></li>
+                        <li class="page-scroll" role="separator" class="divider"></li>
+                        <li><a class="page-scroll" href="#about">ไทย-แบบแผน</a></li>
+                        <li role="separator" class="divider"></li>
+                        <li class="disabled"><a href="#">อักษรในระบบโรมัน</a></li>
+                        <li role="separator" class="divider"></li>
+                        <li><a class="page-scroll" href="#about">Kolkata</a></li>
+                        <li><a class="page-scroll" href="#about">ITRANS</a></li>
+                        <li><a class="page-scroll" href="#about">Harvard-Kyoto</a></li>
+                        <li><a class="page-scroll" href="#about">SanskritOCR</a></li>
+                        <li><a class="page-scroll" href="#about">SLP</a></li>
+                        <li role="separator" class="divider"></li>
+                        <li class="disabled"><a href="#">อักษรอินเดีย</a></li>
+                        <li role="separator" class="divider"></li>
+                        <li><a class="page-scroll" href="#about">เทวนาครี (अ)</a></li>
+                        <li><a class="page-scroll" href="#about">เบงกาลี (অ)</a></li>
+                        <li><a class="page-scroll" href="#about">คุรมุขี (ਅ)</a></li>
+                        <li><a class="page-scroll" href="#about">คุชราตี (અ)</a></li>
+                        <li><a class="page-scroll" href="#about">โอริยา (ଅ)</a></li>
+                        <li><a class="page-scroll" href="#about">ทมิฬ (அ)</a></li>
+                        <li><a class="page-scroll" href="#about">เตลูกู (అ)</a></li>
+                        <li><a class="page-scroll" href="#about">กันนาฑะ (ಅ)</a></li>
+                        <li><a class="page-scroll" href="#about">มาลายาลัม (അ)</a></li>
+
+                    </ul>
+                     <div class="form-group col-xs-4" >
+                    <select class="form-control" id="sel1">
+                        <option>1</option>
+                        <option>2</option>
+                        <option>3</option>
+                        <option>4</option>
+                        <option>1</option>
+                        <option>2</option>
+                        <option>3</option>
+                        <option>4</option>
+                        <option>1</option>
+                        <option>2</option>
+                        <option>3</option>
+                        <option>4</option>
+                        <option>1</option>
+                        <option>2</option>
+                        <option>3</option>
+                        <option>4</option>
+                    </select>
+                </div>
+                </div>
+               
+                <!--</div>-->
+                <!--<a id="select-devanagari" href="javascript:void(0);" class="btn btn-warning btn-xl">เทวนาครี</a>-->
+            </span><p></p>
             <textarea id='textarea-devanagari'  class="select-lang" >लोकाः समस्ताः सुखिनोभवन्तु</textarea>
         </div>
         <div class="text-center" style="width: 50%;float:left;">
-            <p>
-                <a id="select-roman" href="javascript:void(0);" class="btn btn-warning btn-xl">โรมาไนซ์</a>
-            </p>
+            <span>
+                <a id="select-roman" href="javascript:void(0);" class="btn btn-warning btn-xl">โรมาไนซ์(IAST)</a>
+            </span><p></p>
             <textarea id='textarea-roman' class="select-lang" >lokāḥ samastāḥ sukhinobhavantu</textarea>
         </div>
     </div>
@@ -31,7 +87,7 @@
 
                 <a href="#compare" id="translite-button" class="btn btn-info btn-xl page-scroll">
                     <span class="glyphicon glyphicon glyphicon-transfer" aria-hidden="true"></span>
-                    &nbsp;ปริวรรต เป็น ไทย-สันสฤต
+                    &nbsp;ปริวรรต เป็น ไทย-สันสกฤต
                 </a>
             </div>
         </div>

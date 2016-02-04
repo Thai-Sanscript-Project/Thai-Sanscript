@@ -19043,7 +19043,7 @@
 <span id="1-226-11" class="s">หิ </span>
 <span id="1-226-12" class="s">วิหะรันเต </span>
 <span id="1-226-13" class="s">หิ </span>
-<span id="1-226-14" class="s">อุปัโศรตรัสถาเน </span>
+<span id="1-226-14" class="s">อุปะโศรตรัสถาเน </span>
 <span id="1-226-15" class="s">ติษเฐยะ </span>
 <span id="1-226-16" class="s">ยัม </span>
 <span id="1-226-17" class="s">เอเต </span>
@@ -19056,7 +19056,7 @@
 <span id="1-226-24" class="s">กฤตวา </span>
 <span id="1-226-25" class="s">อะนันยะมิมันตัสยะ </span>
 <span id="1-226-26" class="s">ภิกษูสยะ </span>
-<span id="1-226-27" class="s">อุปัโศรตรัสถาเน </span>
+<span id="1-226-27" class="s">อุปะโศรตรัสถาเน </span>
 <span id="1-226-28" class="s">ปาจัตติกัม๚ </span>
 </div></li>
 <li class="code-li"><div>
@@ -19113,7 +19113,7 @@
 <span id="1-229-14" class="s">[๗๗] </span>
 <span id="1-229-15" class="s">มะนาทรรยัม </span>
 <span id="1-229-16" class="s">[๗๘] </span>
-<span id="1-229-17" class="s">มุปัโศรตระ </span>
+<span id="1-229-17" class="s">มุปะโศรตระ </span>
 <span id="1-229-18" class="s">[๗๙] </span>
 <span id="1-229-19" class="s">วินิศจะยะ </span>
 <span id="1-229-20" class="s">[๘๐] </span>
