@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 $config['base_url'] = 'http://localhost/sanskrit';
-//$config['base_url'] = 'http://sanskrit.boombig.xyz/';
+//$config['base_url'] = 'http://www.thai-sanscript.com/';
 
 /*
 |--------------------------------------------------------------------------
@@ -372,7 +372,7 @@ $config['sess_driver'] = 'files';
 $config['sess_cookie_name'] = 'ci_session';
 $config['sess_expiration'] = 7200;
 $config['sess_save_path'] = NULL;
-//$config['sess_save_path'] = '/home/intercar/domains/boombig.xyz/public_html/sanskrit/session/';
+//$config['sess_save_path'] = '/home/thaisans/domains/thai-sanscript.com/public_html/application/session';
 $config['sess_match_ip'] = FALSE;
 $config['sess_time_to_update'] = 300;
 $config['sess_regenerate_destroy'] = FALSE;

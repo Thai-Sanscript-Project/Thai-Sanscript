@@ -5,7 +5,7 @@
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading">นโยบายการใช้งาน</h2>
                 <h5 class="section-heading">ปัจจุบันเอกสารภาษาสันสกฤต ทั้งอักษรเทวนาครีและโรมาไนซ์ มีอยู่อย่างมากมายในอินเตอร์เน็ต ไทย-สันสคริปท์จะช่วย.</h5>
-                
+
                 <hr class="primary">
             </div>
         </div>
@@ -61,29 +61,20 @@
                     ข้อผิดพลาดที่สามารถแจ้งได้นั้นต้องเป็นส่วนการปริวรรต โรมาไนซ์-สันสกฤต เป็น ไทย-สันสกฤต เท่านั้น 
                     ไม่รวมส่วนของ เทวนาครี-สันสกฤต เป็น โรมาไนซ์-สันสกฤต <br>
                 <h4>วิธีรายงานข้อผิดพลาด</h4>
-                    1. คำสันสกฤต-โรมาไนซ์ ต้นฉบับ |
-                    2. คำปริวรรต ไทย ที่ผิด |
-                    3. คำปริวรรต ไทย ที่ถูก |
+                1. คำสันสกฤต-โรมาไนซ์ ต้นฉบับ |
+                2. คำปริวรรต ไทย ที่ผิด |
+                3. คำปริวรรต ไทย ที่ถูก |
                 </p>
-                
+                <div
+                    class="fb-like"
+                    data-share="true"
+                    data-width="450"
+                    data-show-faces="true">
+                </div>
 
                 <fb:comments numposts="10"  width="800">
                 </fb:comments>  
                 <div id="fb-root"></div>  
-                <script>
-                    window.fbAsyncInit = function () {
-                        FB.init({appId: '1617778911822069', status: true, cookie: true,
-                            xfbml: true});
-                    };
-                    (function () {
-                        var e = document.createElement('script');
-                        e.type = 'text/javascript';
-                        e.src = document.location.protocol +
-                                '//connect.facebook.net/th_TH/all.js';
-                        e.async = true;
-                        document.getElementById('fb-root').appendChild(e);
-                    }());
-                </script>  
             </div>
         </div>
     </div>

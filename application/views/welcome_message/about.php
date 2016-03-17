@@ -14,7 +14,7 @@
             <span>
 
                 <!--<div class="btn-group " role="group" aria-label="...">-->
-                <div class="btn-group" role="group">
+<!--                <div class="btn-group" role="group">
                     <button id="select-devanagari" type="button" class=" btn btn-warning btn-xl dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Dropdown<span class="caret"></span>
                     </button>
@@ -65,10 +65,10 @@
                         <option>4</option>
                     </select>
                 </div>
-                </div>
+                </div>-->
                
                 <!--</div>-->
-                <!--<a id="select-devanagari" href="javascript:void(0);" class="btn btn-warning btn-xl">เทวนาครี</a>-->
+                <a id="select-devanagari" href="javascript:void(0);" class="btn btn-warning btn-xl">เทวนาครี</a>
             </span><p></p>
             <textarea id='textarea-devanagari'  class="select-lang" >लोकाः समस्ताः सुखिनोभवन्तु</textarea>
         </div>
